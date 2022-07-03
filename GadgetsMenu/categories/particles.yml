@@ -1,0 +1,253 @@
+Particles:
+  Water Splash:
+    Name: '&aPartícula de respingo de água'
+    Material: head:7e28a49cf23a534535be736b90772b089417224c82e201144da713ea4ea167f5
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id001
+      - ''
+      Unlocked: *id001
+  Drip Water:
+    Name: '&9Auréola de Agua'
+    Material: head:2484aa5bee898a6e8960a3f9a99759b1f39f9dcb321050f714cd72b3d8a8041
+    Mystery Dust: 25
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id002
+      - ''
+      Unlocked: *id002
+  Drip Lava:
+    Name: '&9Auréola de Fogo'
+    Material: head:b82ee289b91ff39a97d39b9ac5fb9a8e4348404f27643af2495859027b344503
+    Mystery Dust: 25
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id003
+      - ''
+      Unlocked: *id003
+  Crit:
+    Name: '&9Auréola de Crítico'
+    Material: head:36f0485453d3a90f354321e8f382bef106bf506424f70c04a207f82bdb2856b9
+    Mystery Dust: 22
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id004
+      - ''
+      Unlocked: *id004
+  Magic Crit:
+    Name: '&9Auréola de Mago'
+    Material: head:29502ab33bb2c8d6a90fff8501bcb9585d1c2efe445a11e3807b18618b0cdd2b
+    Mystery Dust: 20
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id005
+      - ''
+      Unlocked: *id005
+  Spell:
+    Name: '&5Feitiço de Partícula'
+    Material: head:cc87dd6e2b036bfcb70610fd65a03099825638adc1a2ad9200f44067b5a61117
+    Mystery Dust: 30
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id006
+      - ''
+      Unlocked: *id006
+  Instant Spell:
+    Name: '&5Feitiço de Particula Instananeo'
+    Material: head:fbe5663e26bca75ffca8b5d437dc1dfb2e10800ffc86bece3b8ea5f25b51c359
+    Mystery Dust: 32
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id007
+      - ''
+      Unlocked: *id007
+  Mob Spell:
+    Name: '&5Feitiço de Particula Colorido'
+    Material: head:56fc854bb84cf4b7697297973e02b79bc10698460b51a639c60e5e417734e11
+    Mystery Dust: 35
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id008
+      - ''
+      Unlocked: *id008
+  Witch Spell:
+    Name: '&6Feitiço de Bruxa'
+    Material: head:ac3deb9496184350e4f2d7de9cdecb945eb0e7deef797734e8a34d94e4cc79c9
+    Mystery Dust: 40
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id009
+      - ''
+      Unlocked: *id009
+  Angry Villager:
+    Name: '&5Partícula de Aldeão Bravo'
+    Material: head:e400223f1fa54741d421d7e8046409d5f3e15c7f4364b1b739940208f3b686d4
+    Mystery Dust: 32
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id010
+      - ''
+      Unlocked: *id010
+  Happy Villager:
+    Name: '&5Partícula de Aldeão Feliz'
+    Material: head:493fd8fc36775713d8f72883bcf0ae5bbf87ddda7f4b4e3bd2ae4985fa3e6
+    Mystery Dust: 35
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id011
+      - ''
+      Unlocked: *id011
+  Town Aura:
+    Name: '&aAura Negra'
+    Material: head:a1200c470c6728dd657b245c2dbc031891e3cdd9d9979098456b33f812afdc3f
+    Mystery Dust: 18
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id012
+      - ''
+      Unlocked: *id012
+  Note:
+    Name: '&5Notas Musicais'
+    Material: head:3919fbd1df48c322c1305bb1f8eab9674c21844a0493a5535d94caba1eca3c1d
+    Mystery Dust: 35
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id013
+      - ''
+      Unlocked: *id013
+  Portal:
+    Name: '&aPartícula de Portal'
+    Material: head:197520e7b531e8b561ea8e86dfdd91a72bf9832bbad94e92051147fe5e77bfe
+    Mystery Dust: 18
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id014
+      - ''
+      Unlocked: *id014
+  Enchantment Table:
+    Name: '&9Partícula Encantada'
+    Material: head:b62651879d870499da50e34036800ddffd52f3e4e1993c5fc0fc825d03446d8b
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id015
+      - ''
+      Unlocked: *id015
+  Flame:
+    Name: '&6Partícula de Fogo'
+    Material: head:21708574e7e9a6a76c9aa8214797b1ac38950689ef9cdda18d50362398b6101d
+    Mystery Dust: 45
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id016
+      - ''
+      Unlocked: *id016
+  Redstone:
+    Name: '&6Partícula de Redstone'
+    Material: head:571d8a3b8685ca3745b91bfe88fe4155895441fbc28a391469c2767a04c9b
+    Mystery Dust: 48
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id017
+      - ''
+      Unlocked: *id017
+  Heart:
+    Name: '&9Partícula de Coração'
+    Material: head:faaae7b4bfa1b06cb752f6a46475c8d099a23129b13499b5b102805fc609c9ae
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id018
+      - ''
+      Unlocked: *id018
+  Fireworks Spark:
+    Name: '&6Partícula de Foguete'
+    Material: head:302f48f34d22ded7404f76e8a132af5d7919c8dcd51df6e7a85ddfac85ab
+    Mystery Dust: 52
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id019
+      - ''
+      Unlocked: *id019
+  Smoke:
+    Name: '&aPartícula de Fumaça'
+    Material: head:984a68fd7b628d309667db7a55855b54abc23f3595bbe43216211be5fe57014
+    Mystery Dust: 18
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id020
+      - ''
+      Unlocked: *id020
+  Slime:
+    Name: '&aPartícula de Gosma'
+    Material: head:4934a9f5ab1789a7d8dd96d32493cdacff577d8c81e7b23917dff2e32bd0bc10
+    Mystery Dust: 22
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id021
+      - ''
+      Unlocked: *id021

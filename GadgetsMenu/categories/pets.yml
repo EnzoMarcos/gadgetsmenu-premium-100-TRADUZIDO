@@ -1,0 +1,6873 @@
+Pets:
+  Cow:
+    Name: '&eVaca'
+    Material: head:c5a9cd58d4c67bccc8fb1f5f756a2d381c9ffac2924b7f4cb71aa9fa13fb5c
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais'
+    - '&7de estimação desta categoria!'
+    Types:
+      Cow:
+        Name: '&aVaca'
+        Material: head:c5a9cd58d4c67bccc8fb1f5f756a2d381c9ffac2924b7f4cb71aa9fa13fb5c
+        Mystery Dust: 10
+        Rarity: Common
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Vaca'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Vaca'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&aVaca'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Angus Steak
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Mushroom Soup
+          - Cookie
+          - Water
+          - Ball
+          Favourite:
+          - Wheat
+          - Milk
+          - Feather
+      Baby Cow:
+        Name: '&9Vaca (Bebê)'
+        Material: head:5bc4f7477d6b5969db4c81a31b1cb7e6f3730de19b50f78c96217b9d392f097b
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Vaca (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Vaca (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Vaca (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Angus Steak
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Mushroom Soup
+          - Wheat
+          - Water
+          - Feather
+          Favourite:
+          - Cookie
+          - Milk
+          - Ball
+      Mushroom Cow:
+        Name: '&5Vaca Cogumelo'
+        Material: head:d0bc61b9757a7b83e03cd2507a2157913c2cf016e7c096a4d6cf1fe1b8db
+        Mystery Dust: 50
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo &9Vaca Cogumelo'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Vaca Cogumelo'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Vaca Cogumelo'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Angus Steak
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Wheat
+          - Milk
+          - Stick
+          Favourite:
+          - Mushroom Soup
+          - Water
+          - Feather
+      Baby Mushroom Cow:
+        Name: '&6Vaca Cogumelo (Bebê)'
+        Material: head:bab5530e3bd72be2d521ec12a6ab431a533a1c1775a642a6ef8a3cca3be8764f
+        Mystery Dust: 90
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Vaca Cogumelo (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Vaca Cogumelo (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Vaca Cogumelo (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Cookie
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Mushroom Soup
+          - Water
+          - Ball
+          Favourite:
+          - Wheat
+          - Milk
+          - Feather
+    GUI-Name: Vaca
+  Chicken:
+    Name: '&eGalinha'
+    Material: head:277695e697a2247377349fe8271d8e6b888aef354f8cc751f739c6b4c7f492d3
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais'
+    - '&7de estimação desta categoria!'
+    Types:
+      Chicken:
+        Name: '&aGalinha'
+        Material: head:277695e697a2247377349fe8271d8e6b888aef354f8cc751f739c6b4c7f492d3
+        Mystery Dust: 10
+        Rarity: Common
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Galinha'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Galinha'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&aGalinha'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Bread
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Melon
+          - Cookie
+          - Milk
+          - Stick
+          Favourite:
+          - Flower
+          - Water
+          - Frisbee
+      Baby Chicken:
+        Name: '&9Galinha (Bebê)'
+        Material: head:cb464ff52652ec1d43ae98277d48b0155f43f151b5a42e9bc5d516a904fda381
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Galinha (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Galinha (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Galinha (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Flower
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Melon
+          - Wheat
+          - Water
+          - Frisbee
+          Favourite:
+          - Cookie
+          - Milk
+          - Stick
+    GUI-Name: Galinha
+  Wolf:
+    Name: '&eLobo'
+    Material: head:65a29d59451baf05775a38ffb8fb468017f54126e20f0f8bcb3e2d1136918ad1
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais'
+    - '&7de estimação desta categoria!'
+    Types:
+      Wolf:
+        Name: '&aLobo'
+        Material: head:65a29d59451baf05775a38ffb8fb468017f54126e20f0f8bcb3e2d1136918ad1
+        Mystery Dust: 10
+        Rarity: Common
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Lobo'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Lobo'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&aLobo'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Hay
+          - Wheat
+          - Lava
+          - Frisbee
+          - Sparring Sword
+          Really-Like:
+          - Angus Steak
+          - Milk
+          - Ball
+          Favourite:
+          - Bone
+          - Water
+          - Leash
+      Baby Wolf:
+        Name: '&9Lobo (Bebê)'
+        Material: head:a871dc5c0d622e99e450997bac716837d5ab157600ae08e5aea580b6df28eced
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Wolf (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Lobo (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Lobo (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Baked Potato
+          - Flower
+          - Hay
+          - Wheat
+          - Bread
+          - Cake
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Frisbee
+          - Sparring Sword
+          Really-Like:
+          - Raw Porkchop
+          - Bone
+          - Water
+          - Stick
+          - Leash
+          Favourite:
+          - Cookie
+          - Milk
+          - Ball
+    GUI-Name: Lobo
+  Pig:
+    Name: '&ePorco'
+    Material: head:621668ef7cb79dd9c22ce3d1f3f4cb6e2559893b6df4a469514e667c16aa4
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais'
+    - '&7de estimação desta categoria!'
+    Types:
+      Pig:
+        Name: '&aPorco'
+        Material: head:621668ef7cb79dd9c22ce3d1f3f4cb6e2559893b6df4a469514e667c16aa4
+        Mystery Dust: 10
+        Rarity: Common
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Porco'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Porco'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&aPorco'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Leash
+          Really-Like:
+          - Melon
+          - Pumpkin Pie
+          - Carrot
+          - Milk
+          - Ball
+          Favourite:
+          - Apple
+          - Water
+          - Frisbee
+      Baby Pig:
+        Name: '&9Porco (Bebê)'
+        Material: head:eaf8b5abd25c2092ac09692b1325df9b6c907cd5bd54587e8aa3a8153cfed
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Pig (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Porco (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Porco (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Leash
+          Really-Like:
+          - Melon
+          - Pumpkin Pie
+          - Baked Potato
+          - Water
+          - Stick
+          - Frisbee
+          Favourite:
+          - Apple
+          - Milk
+          - Ball
+      Pig Zombie:
+        Name: '&5Porco Zumbi'
+        Material: head:285386f7803343e5e6b7e8ee061677ff17e4f561005479d39472b2657e08842e
+        Mystery Dust: 50
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Porco Zumbi'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Porco Zumbi'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Porco Zumbi'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Melon
+          - Water
+          - Frisbee
+          Really-Like:
+          - Angus Steak
+          - Milk
+          - Stick
+          Favourite:
+          - Rotten Flesh
+          - Lava
+          - Sparring Sword
+      Baby Pig Zombie:
+        Name: '&6Porco Zumbi (Bebê)'
+        Material: head:63d9cb6513f2072e5d4e426d70a5557bc398554c880d4e7b7ec8ef4945eb02f2
+        Mystery Dust: 85
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.5
+        Lore:
+          Locked:
+          - '&7Tipo: &9Porco Zumbi (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Porco Zumbi (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Porco Zumbi (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Melon
+          - Water
+          - Frisbee
+          Really-Like:
+          - Angus Steak
+          - Lava
+          - Sparring Sword
+          Favourite:
+          - Rotten Flesh
+          - Milk
+          - Stick
+    GUI-Name: Porco
+  Silverfish:
+    Name: '&eTraça'
+    Material: head:92ec2c3cb95ab77f7a60fb4d160bced4b879329b62663d7a9860642e588ab210
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais'
+    - '&7de estimação desta categoria!'
+    Types:
+      Silverfish:
+        Name: '&aTraça'
+        Material: head:92ec2c3cb95ab77f7a60fb4d160bced4b879329b62663d7a9860642e588ab210
+        Mystery Dust: 12
+        Rarity: Common
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Traça'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Traça'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&aTraça'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Rotten Flesh
+          - Milk
+          - Ball
+          Favourite:
+          - Bone
+          - Water
+          - Stick
+    GUI-Name: Traça
+  Endermite:
+    Name: '&eEndermite'
+    Material: head:5a1a0831aa03afb4212adcbb24e5dfaa7f476a1173fce259ef75a85855
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais'
+    - '&7de estimação desta categoria!'
+    Types:
+      Endermite:
+        Name: '&6Endermite'
+        Material: head:5a1a0831aa03afb4212adcbb24e5dfaa7f476a1173fce259ef75a85855
+        Mystery Dust: 55
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Endermite'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Endermite'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Endermite'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Cake
+          - Water
+          - Sparring Sword
+          Really-Like:
+          - Raw Porkchop
+          - Milk
+          - Ball
+          Favourite:
+          - Rotten Flesh
+          - Lava
+          - Frisbee
+    GUI-Name: Endermite
+  Zombie:
+    Name: '&eZumbi'
+    Material: ZOMBIE_HEAD
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais'
+    - '&7de estimação desta categoria!'
+    Types:
+      Zombie:
+        Name: '&aZumbi'
+        Material: ZOMBIE_HEAD
+        Mystery Dust: 12
+        Rarity: Common
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Zumbi'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Zumbi'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&aZumbi'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Water
+          - Leash
+          Really-Like:
+          - Raw Porkchop
+          - Milk
+          - Stick
+          Favourite:
+          - Angus Steak
+          - Lava
+          - Sparring Sword
+      Baby Zombie:
+        Name: '&9Zumbi (Bebê)'
+        Material: head:06aea6aca1a81b23bd8c5e508fe76648fc2e41faa1c8fc26cfa8bdce4163
+        Mystery Dust: 50
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.5
+        Lore:
+          Locked:
+          - '&7Tipo: &9Zumbi (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Zumbi (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Zumbi (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Water
+          - Frisbee
+          Really-Like:
+          - Cookie
+          - Lava
+          - Ball
+          Favourite:
+          - Rotten Flesh
+          - Milk
+          - Sparring Sword
+      Husk:
+        Name: '&9Zumbi Husk'
+        Material: head:d674c63c8db5f4ca628d69a3b1f8a36e29d8fd775e1a6bdb6cabb4be4db121
+        Mystery Dust: 45
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Zumbi Husk'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Zumbi Husk'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Zumbi Husk'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Water
+          - Leash
+          Really-Like:
+          - Raw Porkchop
+          - Milk
+          - Ball
+          Favourite:
+          - Angus Steak
+          - Lava
+          - Sparring Sword
+      Baby Husk:
+        Name: '&5Zumbi Husk (Bebê)'
+        Material: head:d674c63c8db5f4ca628d69a3b1f8a36e29d8fd775e1a6bdb6cabb4be4db121
+        Mystery Dust: 60
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.5
+        Lore:
+          Locked:
+          - '&7Tipo: &9Zumbi Husk (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Zumbi Husk (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Zumbi Husk (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Water
+          - Leash
+          Really-Like:
+          - Rotten Flesh
+          - Lava
+          - Sparring Sword
+          Favourite:
+          - Cookie
+          - Milk
+          - Ball
+      Red Little Helper:
+        Name: '&5Ajudante vermelho'
+        Material: head:4c949d215c6380a8b2ca2d7baf42e16de53bb064355033957e4ea9d8e1d1c9fd
+        Mystery Dust: 50
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.5
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ajudante vermelho'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ajudante vermelho'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Ajudante vermelho'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Flower
+          - Water
+          - Leash
+          Really-Like:
+          - Cake
+          - Lava
+          - Ball
+          Favourite:
+          - Cookie
+          - Milk
+          - Frisbee
+      Green Little Helper:
+        Name: '&5Ajudante verde'
+        Material: head:69b37eabd3df528de81c5e6ee120922819a52df03e3fceb4affcabd770b41f44
+        Mystery Dust: 30
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.5
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ajudante verde'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ajudante verde'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Ajudante verde'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Flower
+          - Water
+          - Leash
+          Really-Like:
+          - Cookie
+          - Lava
+          - Frisbee
+          Favourite:
+          - Cake
+          - Milk
+          - Ball
+    GUI-Name: Zumbi
+  Cat:
+    Name: '&eGato'
+    Material: head:d0dba942c06b77a2828e3f66a1faec5e8643e9ea61a81a4523279739ed82d
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais'
+    - '&7de estimação desta categoria!'
+    Types:
+      Black Cat:
+        Name: '&aGato: Preto'
+        Material: head:d0dba942c06b77a2828e3f66a1faec5e8643e9ea61a81a4523279739ed82d
+        Mystery Dust: 12
+        Rarity: Common
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Gato: Preto'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Gato: Preto'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&aGato: Preto'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Baked Potato
+          - Flower
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Cookie
+          - Cake
+          - Milk
+          - Frisbee
+          Favourite:
+          - Raw Fish
+          - Water
+          - Ball
+      Baby Black Cat:
+        Name: '&9Gato: Preto (Bebê)'
+        Material: head:62cbdee8f6922c5b3d403a5af1d61466216755b0a6a0efa2e2eb36e8665d0b5f
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Gato: Preto (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Gato: Preto (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Gato: Preto (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Baked Potato
+          - Flower
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Cookie
+          - Cake
+          - Water
+          - Frisbee
+          Favourite:
+          - Raw Fish
+          - Milk
+          - Ball
+      Red Cat:
+        Name: '&aGato: Vermelho'
+        Material: head:8eb2e4db3bcfb0503f1fffb339888e5d432398b27699c5a1a1cd8079c8d97d
+        Mystery Dust: 12
+        Rarity: Common
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Gatot: Vermelho'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Gato: Vermelho'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&aGato: Vermelho'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Baked Potato
+          - Flower
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Cookie
+          - Cake
+          - Milk
+          - Frisbee
+          Favourite:
+          - Raw Fish
+          - Water
+          - Ball
+      Baby Red Cat:
+        Name: '&9Cat: Red (Bebê)'
+        Material: head:73cb6bfa557a6753d0ed8c748a180454af4f36161dae83137e6ccd35c867ffd7
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Gato: Vermelho (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Cat: Red (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Cat: Red (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Baked Potato
+          - Flower
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Cookie
+          - Cake
+          - Water
+          - Frisbee
+          Favourite:
+          - Raw Fish
+          - Milk
+          - Ball
+      Siamese Cat:
+        Name: '&aGato: Siamês'
+        Material: head:18efa5ac86edb7aad271fb18b4f78785d0f49aa8fc7333ae2dbcbfca84b09b9f
+        Mystery Dust: 12
+        Rarity: Common
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Gato: Siamês'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Gato: Siamês'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&aGato: Siamês'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Baked Potato
+          - Flower
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Cookie
+          - Cake
+          - Milk
+          - Frisbee
+          Favourite:
+          - Raw Fish
+          - Water
+          - Ball
+      Baby Siamese Cat:
+        Name: '&9Gato: Siamês (Bebê)'
+        Material: head:18efa5ac86edb7aad271fb18b4f78785d0f49aa8fc7333ae2dbcbfca84b09b9f
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Gato: Siamês (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Gato: Siamês (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Gato: Siamês (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Baked Potato
+          - Flower
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Cookie
+          - Cake
+          - Water
+          - Frisbee
+          Favourite:
+          - Raw Fish
+          - Milk
+          - Ball
+      Wild Ocelot:
+        Name: '&9Jaguatirica'
+        Material: head:5657cd5c2989ff97570fec4ddcdc6926a68a3393250c1be1f0b114a1db1
+        Mystery Dust: 15
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Jaguatirica'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Jaguatirica'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Jaguatirica'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Baked Potato
+          - Flower
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Cookie
+          - Cake
+          - Milk
+          - Frisbee
+          Favourite:
+          - Raw Fish
+          - Water
+          - Ball
+      Baby Wild Ocelot:
+        Name: '&5Jaguatirica (Bebê)'
+        Material: head:8a5a71bf3b2a19587376f55a12d31d8fde28b9f949b690ea7a35ff8affe3ff4d
+        Mystery Dust: 35
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Jaguatirica (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Jaguatirica (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Jaguatirica (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Baked Potato
+          - Flower
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Cookie
+          - Cake
+          - Water
+          - Frisbee
+          Favourite:
+          - Raw Fish
+          - Milk
+          - Ball
+    GUI-Name: Gato
+  Rabbit:
+    Name: '&eCoelho'
+    Material: head:117bffc1972acd7f3b4a8f43b5b6c7534695b8fd62677e0306b2831574b
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais'
+    - '&7de estimação desta categoria!'
+    Types:
+      Black Rabbit:
+        Name: '&9Coelho: Preto'
+        Material: head:72c58116a147d1a9a26269224a8be184fe8e5f3f3df9b61751369ad87382ec9
+        Mystery Dust: 22
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.9
+        Lore:
+          Locked:
+          - '&7Tipo: &9Coelho: Preto'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Coelho: Preto'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Coelho: Preto'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Bread
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cookie
+          - Milk
+          - Ball
+          Favourite:
+          - Carrot
+          - Water
+          - Frisbee
+      Baby Black Rabbit:
+        Name: '&5Coelho: Preto (Bebê)'
+        Material: head:72c58116a147d1a9a26269224a8be184fe8e5f3f3df9b61751369ad87382ec9
+        Mystery Dust: 28
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.9
+        Lore:
+          Locked:
+          - '&7Tipo: &9Coelho: Preto (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Coelho: Preto (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Coelho: Preto (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Bread
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Carrot
+          - Water
+          - Frisbee
+          Favourite:
+          - Cookie
+          - Milk
+          - Ball
+      Black & White Rabbit:
+        Name: '&5Coelho: Preto e Branco'
+        Material: head:cb8cff4b15b8ca37e25750f345718f289cb22c5b3ad22627a71223faccc
+        Mystery Dust: 45
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.9
+        Lore:
+          Locked:
+          - '&7Tipo: &9Coelho: Preto e Branco'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Coelho: Preto e Branco'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Coelho: Preto e Branco'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Bread
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cookie
+          - Milk
+          - Ball
+          Favourite:
+          - Carrot
+          - Water
+          - Frisbee
+      Baby Black & White Rabbit:
+        Name: '&6Coelho: Preto e Branco (Bebê)'
+        Material: head:cb8cff4b15b8ca37e25750f345718f289cb22c5b3ad22627a71223faccc
+        Mystery Dust: 51
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.9
+        Lore:
+          Locked:
+          - '&7Tipo: &9Coelho: Preto e Branco (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Coelho: Preto e Branco (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Coelho: Preto e Branco (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Bread
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Carrot
+          - Water
+          - Frisbee
+          Favourite:
+          - Cookie
+          - Milk
+          - Ball
+      Brown Rabbit:
+        Name: '&9Coelho: Marrom'
+        Material: head:7d1169b2694a6aba826360992365bcda5a10c89a3aa2b48c438531dd8685c3a7
+        Mystery Dust: 22
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.9
+        Lore:
+          Locked:
+          - '&7Tipo: &9Coelho: Marrom'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Coelho: Marrom'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Coelho: Marrom'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Bread
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cookie
+          - Milk
+          - Ball
+          Favourite:
+          - Carrot
+          - Water
+          - Frisbee
+      Baby Brown Rabbit:
+        Name: '&5Coelho: Marrom (Bebê)'
+        Material: head:7d1169b2694a6aba826360992365bcda5a10c89a3aa2b48c438531dd8685c3a7
+        Mystery Dust: 28
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.9
+        Lore:
+          Locked:
+          - '&7Tipo: &9Coelho: Marrom (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Coelho: Marrom (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Coelho: Marrom (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Bread
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Carrot
+          - Water
+          - Frisbee
+          Favourite:
+          - Cookie
+          - Milk
+          - Ball
+      Gold Rabbit:
+        Name: '&5Coelho: Ouro'
+        Material: head:c977a3266bf3b9eaf17e5a02ea5fbb46801159863dd288b93e6c12c9cb
+        Mystery Dust: 45
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.9
+        Lore:
+          Locked:
+          - '&7Tipo: &9Coelho: Ouro'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Coelho: Ouro'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Coelho: Ouro'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Bread
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cookie
+          - Milk
+          - Ball
+          Favourite:
+          - Carrot
+          - Water
+          - Frisbee
+      Baby Gold Rabbit:
+        Name: '&6Coelho: Ouro (Bebê)'
+        Material: head:c977a3266bf3b9eaf17e5a02ea5fbb46801159863dd288b93e6c12c9cb
+        Mystery Dust: 51
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.9
+        Lore:
+          Locked:
+          - '&7Tipo: &9Coelho: Ouro (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Coelho: Ouro (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Coelho: Ouro (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Bread
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Carrot
+          - Water
+          - Frisbee
+          Favourite:
+          - Cookie
+          - Milk
+          - Ball
+      Salt & Pepper Rabbit:
+        Name: '&5Coelho: Sal e Pimenta'
+        Material: head:dc29aebe803e5d4dc3b010c9dd56444f863b2d86a6a2afd4a6a721748ba4fa
+        Mystery Dust: 45
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.9
+        Lore:
+          Locked:
+          - '&7Tipo: &9Coelho: Sal e Pimenta'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Coelho: Sal e Pimenta'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Coelho: Sal e Pimenta'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Bread
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cookie
+          - Milk
+          - Ball
+          Favourite:
+          - Carrot
+          - Water
+          - Frisbee
+      Baby Salt & Pepper Rabbit:
+        Name: '&6Coelho: Sal e Pimenta (Bebê)'
+        Material: head:dc29aebe803e5d4dc3b010c9dd56444f863b2d86a6a2afd4a6a721748ba4fa
+        Mystery Dust: 51
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.9
+        Lore:
+          Locked:
+          - '&7Tipo: &9Coelho: Sal e Pimenta (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Coelho: Sal e Pimenta (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Coelho: Sal e Pimenta (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Bread
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Carrot
+          - Water
+          - Frisbee
+          Favourite:
+          - Cookie
+          - Milk
+          - Ball
+      White Rabbit:
+        Name: '&9Coelho: Branco'
+        Material: head:374d8298797e712bb1f75ad6ffa7734ac4237ea69be1db92f0e41115a2c170cf
+        Mystery Dust: 22
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.9
+        Lore:
+          Locked:
+          - '&7Tipo: &9Coelho: Branco'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Coelho: Branco'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Coelho: Branco'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Bread
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cookie
+          - Milk
+          - Ball
+          Favourite:
+          - Carrot
+          - Water
+          - Frisbee
+      Baby White Rabbit:
+        Name: '&5Coelho: Branco (Bebê)'
+        Material: head:374d8298797e712bb1f75ad6ffa7734ac4237ea69be1db92f0e41115a2c170cf
+        Mystery Dust: 28
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.9
+        Lore:
+          Locked:
+          - '&7Tipo: &9Coelho: Branco (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Coelho: Branco (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Coelho: Branco (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Bread
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Carrot
+          - Water
+          - Frisbee
+          Favourite:
+          - Cookie
+          - Milk
+          - Ball
+    GUI-Name: Coelho
+  Sheep:
+    Name: '&eOvelha'
+    Material: head:d9ec22818d1fbfc8167fbe36728b28240e34e16469a2929d03fdf511bf2ca1
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais'
+    - '&7de estimação desta categoria!'
+    Types:
+      Black Sheep:
+        Name: '&5Ovelha: Preta'
+        Material: head:32652083f28ed1b61f9b965df1abf010f234681c21435951c67d88364749822
+        Mystery Dust: 40
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Preta'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Preta'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Ovelha: Preta'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Milk
+          - Stick
+          - Ball
+          Favourite:
+          - Wheat
+          - Water
+          - Leash
+      Baby Black Sheep:
+        Name: '&6Ovelha: Preta (Bebê)'
+        Material: head:32652083f28ed1b61f9b965df1abf010f234681c21435951c67d88364749822
+        Mystery Dust: 75
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Preta (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Preta (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Ovelha: Preta (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Water
+          - Stick
+          - Ball
+          Favourite:
+          - Melon
+          - Milk
+          - Frisbee
+      Blue Sheep:
+        Name: '&9Ovelha: Azul'
+        Material: head:d9ec22818d1fbfc8167fbe36728b28240e34e16469a2929d03fdf511bf2ca1
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Azul'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Azul'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Ovelha: Azul'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Milk
+          - Stick
+          - Ball
+          Favourite:
+          - Wheat
+          - Water
+          - Leash
+      Baby Blue Sheep:
+        Name: '&5Ovelha: Azul (Bebê)'
+        Material: head:d9ec22818d1fbfc8167fbe36728b28240e34e16469a2929d03fdf511bf2ca1
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Azul (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Azul (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Ovelha: Azul (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Water
+          - Stick
+          - Ball
+          Favourite:
+          - Melon
+          - Milk
+          - Frisbee
+      Brown Sheep:
+        Name: '&aOvelha: Marrom'
+        Material: head:a55ad6e5db5692d87f51511f4e09b39ff9ccb3de7b4819a7378fce8553b8
+        Mystery Dust: 12
+        Rarity: Common
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Marrom'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Marrom'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&aOvelha: Marrom'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Milk
+          - Stick
+          - Ball
+          Favourite:
+          - Wheat
+          - Water
+          - Leash
+      Baby Brown Sheep:
+        Name: '&9Ovelha: Marrom (Bebê)'
+        Material: head:a55ad6e5db5692d87f51511f4e09b39ff9ccb3de7b4819a7378fce8553b8
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Marrom (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Marrom (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Ovelha: Marrom (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Water
+          - Stick
+          - Ball
+          Favourite:
+          - Melon
+          - Milk
+          - Frisbee
+      Cyan Sheep:
+        Name: '&9Ovelha: Ciano'
+        Material: head:46f6c7e7fd514ce0acc68593229e40fcc4352b841646e4f0ebcccb0ce23d16
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Ciano'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Ciano'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Ovelha: Ciano'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Milk
+          - Stick
+          - Ball
+          Favourite:
+          - Wheat
+          - Water
+          - Leash
+      Baby Cyan Sheep:
+        Name: '&5Ovelha: Ciano (Bebê)'
+        Material: head:46f6c7e7fd514ce0acc68593229e40fcc4352b841646e4f0ebcccb0ce23d16
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Ciano (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Ciano (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Ovelha: Ciano (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Water
+          - Stick
+          - Ball
+          Favourite:
+          - Melon
+          - Milk
+          - Frisbee
+      Gray Sheep:
+        Name: '&aSheep: Cinza'
+        Material: head:4287eb501391f275389f166ec9febea75ec4ae951b88b38cae87df7e24f4c
+        Mystery Dust: 12
+        Rarity: Common
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Cinza'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Sheep: Cinza'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&aSheep: Cinza'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Milk
+          - Stick
+          - Ball
+          Favourite:
+          - Wheat
+          - Water
+          - Leash
+      Baby Gray Sheep:
+        Name: '&9Ovelha: Cinza (Bebê)'
+        Material: head:4287eb501391f275389f166ec9febea75ec4ae951b88b38cae87df7e24f4c
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Cinza (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Cinza (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Ovelha: Cinza (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Water
+          - Stick
+          - Ball
+          Favourite:
+          - Melon
+          - Milk
+          - Frisbee
+      Green Sheep:
+        Name: '&9Ovelha: Verde'
+        Material: head:6de55a395a2246445b45f9a6d68872344bbea54f362d529fc5b0b857ea58326b
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Verde'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Verde'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Ovelha: Verde'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Milk
+          - Stick
+          - Ball
+          Favourite:
+          - Wheat
+          - Water
+          - Leash
+      Baby Green Sheep:
+        Name: '&5Ovelha: Verde (Bebê)'
+        Material: head:6de55a395a2246445b45f9a6d68872344bbea54f362d529fc5b0b857ea58326b
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Verde (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Verde (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Ovelha: Verde (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Water
+          - Stick
+          - Ball
+          Favourite:
+          - Melon
+          - Milk
+          - Frisbee
+      Light Blue Sheep:
+        Name: '&9Ovelha: Azul Claro'
+        Material: head:9a624f5966bedd6e67f654b59e9249b2ecf307d903339bc199923977f4c8c
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha:Azul Claro'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Azul Claro'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Ovelha: Azul Claro'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Milk
+          - Stick
+          - Ball
+          Favourite:
+          - Wheat
+          - Water
+          - Leash
+      Baby Light Blue Sheep:
+        Name: '&5Ovelha: Azul Claro (Bebê)'
+        Material: head:9a624f5966bedd6e67f654b59e9249b2ecf307d903339bc199923977f4c8c
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Azul Claro (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Azul Claro (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Ovelha: Azul Claro (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Water
+          - Stick
+          - Ball
+          Favourite:
+          - Melon
+          - Milk
+          - Frisbee
+      Lime Sheep:
+        Name: '&9Ovelha: Verde Claro'
+        Material: head:92a2448f58a491332434e85c45d786d874397e830a3a7894e6d92699c42b30
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Verde Claro'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Verde Claro'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Ovelha: Verde Claro'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Milk
+          - Stick
+          - Ball
+          Favourite:
+          - Wheat
+          - Water
+          - Leash
+      Baby Lime Sheep:
+        Name: '&5Ovelha: Verde Claro (Bebê)'
+        Material: head:92a2448f58a491332434e85c45d786d874397e830a3a7894e6d92699c42b30
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Verde Claro (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Verde Claro (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Ovelha: Verde Claro (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Water
+          - Stick
+          - Ball
+          Favourite:
+          - Melon
+          - Milk
+          - Frisbee
+      Magenta Sheep:
+        Name: '&9Ovelha: Magenta'
+        Material: head:1836565c7897d49a71bc18986d1ea6561321a0bbf711d41a56ce3bb2c217e7a
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Magenta'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Magenta'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Ovelha: Magenta'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Milk
+          - Stick
+          - Ball
+          Favourite:
+          - Wheat
+          - Water
+          - Leash
+      Baby Magenta Sheep:
+        Name: '&5Ovelha: Magenta (Bebê)'
+        Material: head:1836565c7897d49a71bc18986d1ea6561321a0bbf711d41a56ce3bb2c217e7a
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Magenta (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Magenta (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Ovelha: Magenta (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Water
+          - Stick
+          - Ball
+          Favourite:
+          - Melon
+          - Milk
+          - Frisbee
+      Orange Sheep:
+        Name: '&9Ovelha: Laranja'
+        Material: head:f098397a270b4c3d2b1e574b8cfd3cc4ea3409066cefe31ea993633c9d576
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Laranja'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Laranja'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Ovelha: Laranja'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Milk
+          - Stick
+          - Ball
+          Favourite:
+          - Wheat
+          - Water
+          - Leash
+      Baby Orange Sheep:
+        Name: '&5Ovelha: Laranja (Bebê)'
+        Material: head:f098397a270b4c3d2b1e574b8cfd3cc4ea3409066cefe31ea993633c9d576
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Laranja (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Laranja (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Ovelha: Laranja (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Water
+          - Stick
+          - Ball
+          Favourite:
+          - Melon
+          - Milk
+          - Frisbee
+      Pink Sheep:
+        Name: '&5Ovelha: Rosa'
+        Material: head:9e738f56eafe6ffc1583de811ae057ff30491c41749058bc5275317e72e669
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Rosa'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Rosa'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Ovelha: Rosa'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Milk
+          - Stick
+          - Ball
+          Favourite:
+          - Wheat
+          - Water
+          - Leash
+      Baby Pink Sheep:
+        Name: '&6Ovelha: Rosa (Bebê)'
+        Material: head:9e738f56eafe6ffc1583de811ae057ff30491c41749058bc5275317e72e669
+        Mystery Dust: 75
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Rosa (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Rosa (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Ovelha: Rosa (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Water
+          - Stick
+          - Ball
+          Favourite:
+          - Melon
+          - Milk
+          - Frisbee
+      Purple Sheep:
+        Name: '&9Ovelha: Roxa'
+        Material: head:ae52867afef38bb14a26d1426c8c0f116ad34761acd92e7aae2c819a0d55b85
+        Mystery Dust: 55
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Roxa'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Roxa'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Ovelha: Roxa'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Milk
+          - Stick
+          - Ball
+          Favourite:
+          - Wheat
+          - Water
+          - Leash
+      Baby Purple Sheep:
+        Name: '&5Ovelha: Roxa (Bebê)'
+        Material: head:ae52867afef38bb14a26d1426c8c0f116ad34761acd92e7aae2c819a0d55b85
+        Mystery Dust: 75
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Roxa (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Roxa (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Ovelha: Roxa (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Water
+          - Stick
+          - Ball
+          Favourite:
+          - Melon
+          - Milk
+          - Frisbee
+      Red Sheep:
+        Name: '&9Ovelha: Vermelha'
+        Material: head:839af477eb627815f723a5662556ec9dfcbab5d494d338bd214232f23e446
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Vermelha'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Vermelha'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Ovelha: Vermelha'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Milk
+          - Stick
+          - Ball
+          Favourite:
+          - Wheat
+          - Water
+          - Leash
+      Baby Red Sheep:
+        Name: '&5Ovelha: Vermelha (Bebê)'
+        Material: head:839af477eb627815f723a5662556ec9dfcbab5d494d338bd214232f23e446
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Vermelha (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Vermelha (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Ovelha: Vermelha (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Water
+          - Stick
+          - Ball
+          Favourite:
+          - Melon
+          - Milk
+          - Frisbee
+      Silver Sheep:
+        Name: '&aOvelha: Prateada'
+        Material: head:ce1ac683993be35512e1be31d1f4f98e583edb1658a9e21192c9b23b5cccdc3
+        Mystery Dust: 12
+        Rarity: Common
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Prateada'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Prateada'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&aOvelha: Prateada'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Milk
+          - Stick
+          - Ball
+          Favourite:
+          - Wheat
+          - Water
+          - Leash
+      Baby Silver Sheep:
+        Name: '&9Ovelha: Prateada (Bebê)'
+        Material: head:ce1ac683993be35512e1be31d1f4f98e583edb1658a9e21192c9b23b5cccdc3
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Prateada (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Prateada (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Ovelha: Prateada (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Water
+          - Stick
+          - Ball
+          Favourite:
+          - Melon
+          - Milk
+          - Frisbee
+      White Sheep:
+        Name: '&aOvelha: Branca'
+        Material: head:f31f9ccc6b3e32ecf13b8a11ac29cd33d18c95fc73db8a66c5d657ccb8be70
+        Mystery Dust: 12
+        Rarity: Common
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Branca'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Branca'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&aOvelha: Branca'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Milk
+          - Stick
+          - Ball
+          Favourite:
+          - Wheat
+          - Water
+          - Leash
+      Baby White Sheep:
+        Name: '&9Ovelha: Branca (Bebê)'
+        Material: head:f31f9ccc6b3e32ecf13b8a11ac29cd33d18c95fc73db8a66c5d657ccb8be70
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Branca (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Branca (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Ovelha: Branca (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Water
+          - Stick
+          - Ball
+          Favourite:
+          - Melon
+          - Milk
+          - Frisbee
+      Yellow Sheep:
+        Name: '&9Ovelha: Amarela'
+        Material: head:26a4112df1e4bce2a5e28417f3aaff79cd66e885c3724554102cef8eb8
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Amarela'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Amarela'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Ovelha: Amarela'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Milk
+          - Stick
+          - Ball
+          Favourite:
+          - Wheat
+          - Water
+          - Leash
+      Baby Yellow Sheep:
+        Name: '&5Ovelha: Amarela (Bebê)'
+        Material: head:26a4112df1e4bce2a5e28417f3aaff79cd66e885c3724554102cef8eb8
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ovelha: Amarela (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ovelha: Amarela (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Ovelha: Amarela (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Water
+          - Stick
+          - Ball
+          Favourite:
+          - Melon
+          - Milk
+          - Frisbee
+      Rainbow Sheep:
+        Name: '&6Sheep: Rainbow'
+        Material: EXPERIENCE_BOTTLE
+        Mystery Dust: 75
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&6Sheep: Rainbow'
+        Move-Speed: 0.7
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Apple
+          - Carrot
+          - Hay
+          - Milk
+          - Stick
+          - Ball
+          Favourite:
+          - Wheat
+          - Water
+          - Leash
+        Lore:
+          Locked:
+          - '&7Make this awesome and'
+          - '&7cuddly Sheep: Rainbow yours'
+          - '&7today!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Sheep: Rainbow'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+    GUI-Name: Ovelha
+  Horse:
+    Name: '&eCavalo'
+    Material: head:1f15c27cb7c35a6e7aa763573ddbff9808516bdabc23f1cb5163918c4a1392
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais'
+    - '&7de estimação desta categoria!'
+    Types:
+      Black Horse:
+        Name: '&5Cavalo: Preto'
+        Material: head:64b7fc5f7a9ddfdd1aa79317410fc1929f91bddf98585938a2a56199a633cc
+        Mystery Dust: 42
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Cavalo: Preto'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Cavalo: Preto'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Cavalo: Preto'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Melon
+          - Hay
+          - Wheat
+          - Milk
+          - Ball
+          Favourite:
+          - Apple
+          - Water
+          - Leash
+      Baby Black Horse:
+        Name: '&6Cavalo: Preto (Bebê)'
+        Material: head:64b7fc5f7a9ddfdd1aa79317410fc1929f91bddf98585938a2a56199a633cc
+        Mystery Dust: 60
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Cavalo: Preto (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Cavalo: Preto (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Cavalo: Preto (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Melon
+          - Hay
+          - Wheat
+          - Water
+          - Leash
+          Favourite:
+          - Apple
+          - Milk
+          - Ball
+      Brown Horse:
+        Name: '&aCavalo: Marrom'
+        Material: head:bedf73ea12ce6bd90a4ae9a8d15096749cfe918230dc829b2581d223b1a2a8
+        Mystery Dust: 15
+        Rarity: Common
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Cavalo: Marrom'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Cavalo: Marrom'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&aCavalo: Marrom'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Melon
+          - Hay
+          - Wheat
+          - Milk
+          - Ball
+          Favourite:
+          - Apple
+          - Water
+          - Leash
+      Baby Brown Horse:
+        Name: '&9Cavalo: Marrom (Bebê)'
+        Material: head:bedf73ea12ce6bd90a4ae9a8d15096749cfe918230dc829b2581d223b1a2a8
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Cavalo: Marrom (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Cavalo: Marrom (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Cavalo: Marrom (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Melon
+          - Hay
+          - Wheat
+          - Water
+          - Leash
+          Favourite:
+          - Apple
+          - Milk
+          - Ball
+      Chestnut Horse:
+        Name: '&9Cavalo: Castanho'
+        Material: head:1f15c27cb7c35a6e7aa763573ddbff9808516bdabc23f1cb5163918c4a1392
+        Mystery Dust: 25
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Cavalo: Castanho'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Cavalo: Castanho'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Cavalo: Castanho'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Melon
+          - Hay
+          - Wheat
+          - Milk
+          - Ball
+          Favourite:
+          - Apple
+          - Water
+          - Leash
+      Baby Chestnut Horse:
+        Name: '&5Cavalo: Castanho (Bebê)'
+        Material: head:1f15c27cb7c35a6e7aa763573ddbff9808516bdabc23f1cb5163918c4a1392
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Cavalo: Castanho (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Cavalo: Castanho (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Cavalo: Castanho (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Melon
+          - Hay
+          - Wheat
+          - Water
+          - Leash
+          Favourite:
+          - Apple
+          - Milk
+          - Ball
+      Creamy Horse:
+        Name: '&9Cavalo: Creme'
+        Material: head:372d52421d8414577d3f6266440f6842b72767c9c4e3367daee516572a94d5
+        Mystery Dust: 25
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Cavalo: Creme'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Cavalo: Creme'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Cavalo: Creme'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Melon
+          - Hay
+          - Wheat
+          - Milk
+          - Ball
+          Favourite:
+          - Apple
+          - Water
+          - Leash
+      Baby Creamy Horse:
+        Name: '&5Cavalo: Creme (Bebê)'
+        Material: head:372d52421d8414577d3f6266440f6842b72767c9c4e3367daee516572a94d5
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Cavalo: Creme (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Cavalo: Creme (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Cavalo: Creme (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Melon
+          - Hay
+          - Wheat
+          - Water
+          - Leash
+          Favourite:
+          - Apple
+          - Milk
+          - Ball
+      Dark Brown Horse:
+        Name: '&9Cavalo: Marrom Escuro'
+        Material: head:36fcd3ec3bc84bafb4123ea479471f9d2f42d8fb9c5f11cf5f4e0d93226
+        Mystery Dust: 25
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Cavalo: Marrom Escuro'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Cavalo: Marrom Escuro'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Cavalo: Marrom Escuro'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Melon
+          - Hay
+          - Wheat
+          - Milk
+          - Ball
+          Favourite:
+          - Apple
+          - Water
+          - Leash
+      Baby Dark Brown Horse:
+        Name: '&5Cavalo: Marrom Escuro (Bebê)'
+        Material: head:36fcd3ec3bc84bafb4123ea479471f9d2f42d8fb9c5f11cf5f4e0d93226
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Cavalo: Marrom Escuro (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Cavalo: Marrom Escuro (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Cavalo: Marrom Escuro (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Melon
+          - Hay
+          - Wheat
+          - Water
+          - Leash
+          Favourite:
+          - Apple
+          - Milk
+          - Ball
+      Gray Horse:
+        Name: '&9Cavalo: Cinza'
+        Material: head:413813dd45ed0ef838448cf6f631c157c23f9650c5ae451e978a53383312fe
+        Mystery Dust: 25
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Cavalo: Cinza'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Cavalo: Cinza'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Cavalo: Cinza'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Melon
+          - Hay
+          - Wheat
+          - Milk
+          - Ball
+          Favourite:
+          - Apple
+          - Water
+          - Leash
+      Baby Gray Horse:
+        Name: '&5Cavalo: Cinza (Bebê)'
+        Material: head:413813dd45ed0ef838448cf6f631c157c23f9650c5ae451e978a53383312fe
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Cavalo: Cinza (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Cavalo: Cinza (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Cavalo: Cinza (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Melon
+          - Hay
+          - Wheat
+          - Water
+          - Leash
+          Favourite:
+          - Apple
+          - Milk
+          - Ball
+      White Horse:
+        Name: '&5Cavalo: Branco'
+        Material: head:9f4bdd59d4f8f1d5782e0fee4bd64aed100627f188a91489ba37eeadededd827
+        Mystery Dust: 42
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Cavalo: Branco'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Cavalo: Branco'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Cavalo: Branco'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Melon
+          - Hay
+          - Wheat
+          - Milk
+          - Ball
+          Favourite:
+          - Apple
+          - Water
+          - Leash
+      Baby White Horse:
+        Name: '&6Cavalo: Branco (Bebê)'
+        Material: head:9f4bdd59d4f8f1d5782e0fee4bd64aed100627f188a91489ba37eeadededd827
+        Mystery Dust: 60
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Cavalo: Branco (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Cavalo: Branco (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Cavalo: Branco (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Melon
+          - Hay
+          - Wheat
+          - Water
+          - Leash
+          Favourite:
+          - Apple
+          - Milk
+          - Ball
+      Donkey:
+        Name: '&9Asno'
+        Material: head:399bb50d1a214c394917e25bb3f2e20698bf98ca703e4cc08b42462df309d6e6
+        Mystery Dust: 27
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Asno'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Asno'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Asno'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Melon
+          - Hay
+          - Wheat
+          - Milk
+          - Ball
+          Favourite:
+          - Apple
+          - Water
+          - Leash
+      Baby Donkey:
+        Name: '&5Asno (Bebê)'
+        Material: head:399bb50d1a214c394917e25bb3f2e20698bf98ca703e4cc08b42462df309d6e6
+        Mystery Dust: 40
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Asno (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Asno (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Asno (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Melon
+          - Hay
+          - Wheat
+          - Water
+          - Leash
+          Favourite:
+          - Apple
+          - Milk
+          - Ball
+      Mule:
+        Name: '&9Mula'
+        Material: head:46dcda265e57e4f51b145aacbf5b59bdc6099ffd3cce0a661b2c0065d80930d8
+        Mystery Dust: 22
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Mula'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Mula'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Mula'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Melon
+          - Hay
+          - Wheat
+          - Milk
+          - Ball
+          Favourite:
+          - Apple
+          - Water
+          - Leash
+      Baby Mule:
+        Name: '&5Mula (Bebê)'
+        Material: head:46dcda265e57e4f51b145aacbf5b59bdc6099ffd3cce0a661b2c0065d80930d8
+        Mystery Dust: 35
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Mula (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Mula (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Mula (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Melon
+          - Hay
+          - Wheat
+          - Water
+          - Leash
+          Favourite:
+          - Apple
+          - Milk
+          - Ball
+      Skeleton Horse:
+        Name: '&6Cavalo Esqueleto'
+        Material: head:47effce35132c86ff72bcae77dfbb1d22587e94df3cbc2570ed17cf8973a
+        Mystery Dust: 65
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Cavalo Esqueleto'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Cavalo Esqueleto'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Cavalo Esqueleto'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Melon
+          - Water
+          - Frisbee
+          Really-Like:
+          - Magma Cream
+          - Milk
+          - Ball
+          Favourite:
+          - Bone
+          - Lava
+          - Leash
+      Baby Skeleton Horse:
+        Name: '&6Cavalo Esqueleto (Bebê)'
+        Material: head:47effce35132c86ff72bcae77dfbb1d22587e94df3cbc2570ed17cf8973a
+        Mystery Dust: 85
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Cavalo Esqueleto (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Cavalo Esqueleto (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Cavalo Esqueleto (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Melon
+          - Water
+          - Feather
+          Really-Like:
+          - Magma Cream
+          - Lava
+          - Leash
+          Favourite:
+          - Bone
+          - Milk
+          - Ball
+      Undead Horse:
+        Name: '&5Cavalo Zumbi'
+        Material: head:f896a1dbde1a19540ce7336c6c94f59652aa98bb1068b2ef8c8fa6ef85804f57
+        Mystery Dust: 63
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Cavalo Zumbi'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Cavalo Zumbi'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Cavalo Zumbi'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Melon
+          - Water
+          - Feather
+          Really-Like:
+          - Bone
+          - Milk
+          - Ball
+          Favourite:
+          - Rotten Flesh
+          - Lava
+          - Leash
+      Baby Undead Horse:
+        Name: '&6Cavalo Zumbi (Bebê)'
+        Material: head:f896a1dbde1a19540ce7336c6c94f59652aa98bb1068b2ef8c8fa6ef85804f57
+        Mystery Dust: 85
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Cavalo Zumbi (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Cavalo Zumbi (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Cavalo Zumbi (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Melon
+          - Water
+          - Feather
+          Really-Like:
+          - Bone
+          - Lava
+          - Leash
+          Favourite:
+          - Rotten Flesh
+          - Milk
+          - Ball
+    GUI-Name: Cavalo
+  Villager:
+    Name: '&eAldeão'
+    Material: head:afc6ac9d85554bbe56a6668de0a54cb1eff93e14f4bcdf7245a744cc37721f0a
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais'
+    - '&7de estimação desta categoria!'
+    Types:
+      Blacksmith Villager:
+        Name: '&9Aldeão: Ferreiro'
+        Material: head:87d1c345eb4099440f714ccf6f78364ee85bd0b01c1c186d848151ba01f7dc86
+        Mystery Dust: 22
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Aldeão: Ferreiro'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Aldeão: Ferreiro'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Aldeão: Ferreiro'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cookie
+          - Milk
+          - Feather
+          Favourite:
+          - Bread
+          - Water
+          - Frisbee
+      Baby Blacksmith Villager:
+        Name: '&5Aldeão: Ferreiro (Bebê)'
+        Material: head:87d1c345eb4099440f714ccf6f78364ee85bd0b01c1c186d848151ba01f7dc86
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Aldeão: Ferreiro (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Aldeão: Ferreiro (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Aldeão: Ferreiro (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Bread
+          - Water
+          - Frisbee
+          Favourite:
+          - Cookie
+          - Milk
+          - Feather
+      Butcher Villager:
+        Name: '&9Aldeão: Açougueiro'
+        Material: head:73bd1e78664d76aab13706f7ce91f75a52cec017d60446fb43bd8bf2042dd3b3
+        Mystery Dust: 22
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Aldeão: Butcher'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Aldeão: Açougueiro'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Aldeão: Açougueiro'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cookie
+          - Milk
+          - Feather
+          Favourite:
+          - Bread
+          - Water
+          - Frisbee
+      Baby Butcher Villager:
+        Name: '&5Aldeão: Açougueiro (Bebê)'
+        Material: head:73bd1e78664d76aab13706f7ce91f75a52cec017d60446fb43bd8bf2042dd3b3
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Aldeão: Açougueiro (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Aldeão: Açougueiro (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Aldeão: Açougueiro (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Bread
+          - Water
+          - Frisbee
+          Favourite:
+          - Cookie
+          - Milk
+          - Feather
+      Farmer Villager:
+        Name: '&9Aldeão: Agricultor'
+        Material: head:d01e035a3d8d6126072bcbe52a97913ace93552a99995b5d4070d6783a31e909
+        Mystery Dust: 22
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Aldeão: Agricultor'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Aldeão: Agricultor'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Aldeão: Agricultor'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cookie
+          - Milk
+          - Feather
+          Favourite:
+          - Bread
+          - Water
+          - Frisbee
+      Baby Farmer Villager:
+        Name: '&5Villager: Agricultor (Bebê)'
+        Material: head:d01e035a3d8d6126072bcbe52a97913ace93552a99995b5d4070d6783a31e909
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Aldeão: Agricultor (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Villager: Agricultor (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Villager: Agricultor (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Bread
+          - Water
+          - Frisbee
+          Favourite:
+          - Cookie
+          - Milk
+          - Feather
+      Librarian Villager:
+        Name: '&9Aldeão: Bibliotecário'
+        Material: head:861f5762a3faf529044cf456054b8e6d6ba8b287308a8a08b287070f8d16efe5
+        Mystery Dust: 22
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Aldeão: Bibliotecário'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Aldeão: Bibliotecário'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Aldeão: Bibliotecário'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cookie
+          - Milk
+          - Feather
+          Favourite:
+          - Bread
+          - Water
+          - Frisbee
+      Baby Librarian Villager:
+        Name: '&5Aldeão: Bibliotecário (Bebê)'
+        Material: head:861f5762a3faf529044cf456054b8e6d6ba8b287308a8a08b287070f8d16efe5
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Aldeão: Bibliotecário (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Aldeão: Bibliotecário (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Aldeão: Bibliotecário (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Bread
+          - Water
+          - Frisbee
+          Favourite:
+          - Cookie
+          - Milk
+          - Feather
+      Priest Villager:
+        Name: '&9Aldeão: Sacerdote'
+        Material: head:94eb5346f2c703bbc4963058c4d724d6c7100161252a2eb569cfebfd1065e46b
+        Mystery Dust: 22
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Aldeão: Sacerdote'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Aldeão: Sacerdote'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Aldeão: Sacerdote'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cookie
+          - Milk
+          - Feather
+          Favourite:
+          - Bread
+          - Water
+          - Frisbee
+      Baby Priest Villager:
+        Name: '&5Aldeão: Sacerdote (Bebê)'
+        Material: head:94eb5346f2c703bbc4963058c4d724d6c7100161252a2eb569cfebfd1065e46b
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Aldeão: Sacerdote (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Aldeão: Sacerdote (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Aldeão: Sacerdote (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Rotten Flesh
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Bread
+          - Water
+          - Frisbee
+          Favourite:
+          - Cookie
+          - Milk
+          - Feather
+      Zombie Villager:
+        Name: '&5Aldeão: Zumbi'
+        Material: head:1e3fc332103254b77675b7a4784d3c99c5e15765be43445c907ad97d7fcafe18
+        Mystery Dust: 52
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Aldeão: Zumbi'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Aldeão: Zumbi'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Aldeão: Zumbi'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Cake
+          - Water
+          - Leash
+          Really-Like:
+          - Raw Porkchop
+          - Milk
+          - Ball
+          Favourite:
+          - Rotten Flesh
+          - Lava
+          - Stick
+      Baby Zombie Villager:
+        Name: '&6Aldeão: Zumbi (Bebê)'
+        Material: head:1e3fc332103254b77675b7a4784d3c99c5e15765be43445c907ad97d7fcafe18
+        Mystery Dust: 75
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.5
+        Lore:
+          Locked:
+          - '&7Tipo: &9Aldeão: Zumbi (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Aldeão: Zumbi (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Aldeão: Zumbi (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Cake
+          - Water
+          - Leash
+          Really-Like:
+          - Bone
+          - Lava
+          - Stick
+          Favourite:
+          - Rotten Flesh
+          - Milk
+          - Ball
+      Witch:
+        Name: '&5Bruxa'
+        Material: head:29502ab33bb2c8d6a90fff8501bcb9585d1c2efe445a11e3807b18618b0cdd2b
+        Mystery Dust: 45
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9BRuxa'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Bruxa'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Bruxa'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Raw Fish
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Baked Potato
+          - Water
+          - Feather
+          Favourite:
+          - Pumpkin Pie
+          - Milk
+          - Stick
+      Evoker:
+        Name: '&6Evoker'
+        Material: head:4f6fb89d1c631bd7e79fe185ba1a6705425f5c31a5ff626521e395d4a6f7e2
+        Mystery Dust: 80
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Evoker'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Evoker'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Evoker'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Melon
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Angus Steak
+          - Milk
+          - Feather
+          Favourite:
+          - Bone
+          - Water
+          - Stick
+      Vindicator:
+        Name: '&6Vindicator'
+        Material: head:4f6fb89d1c631bd7e79fe185ba1a6705425f5c31a5ff626521e395d4a6f7e2
+        Mystery Dust: 80
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Vindicator'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Vindicator'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Vindicator'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Melon
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Angus Steak
+          - Milk
+          - Feather
+          Favourite:
+          - Bone
+          - Water
+          - Stick
+      Illusioner:
+        Name: '&6Ilusionista'
+        Material: head:1c678c9f4c6dd4d991930f82e6e7d8b89b2891f35cba48a4b18539bbe7ec927
+        Mystery Dust: 85
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Ilusionista'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Ilusionista'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Ilusionista'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Melon
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Angus Steak
+          - Milk
+          - Feather
+          Favourite:
+          - Bone
+          - Water
+          - Stick
+    GUI-Name: Aldeão
+  Spider:
+    Name: '&eAranha'
+    Material: head:cd541541daaff50896cd258bdbdd4cf80c3ba816735726078bfe393927e57f1
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais'
+    - '&7de estimação desta categoria!'
+    Types:
+      Spider:
+        Name: '&5Aranha'
+        Material: head:cd541541daaff50896cd258bdbdd4cf80c3ba816735726078bfe393927e57f1
+        Mystery Dust: 42
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Aranha'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Aranha'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Aranha'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Bread
+          - Lava
+          - Leash
+          Really-Like:
+          - Angus Steak
+          - Milk
+          - Sparring Sword
+          Favourite:
+          - Rotten Flesh
+          - Water
+          - Stick
+      Cave Spider:
+        Name: '&9Aranha das Cavernas'
+        Material: head:41645dfd77d09923107b3496e94eeb5c30329f97efc96ed76e226e98224
+        Mystery Dust: 27
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Aranha das Cavernas'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Aranha das Cavernas'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&9Aranha das Cavernas'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Bread
+          - Lava
+          - Leash
+          Really-Like:
+          - Rotten Flesh
+          - Milk
+          - Stick
+          Favourite:
+          - Angus Steak
+          - Water
+          - Sparring Sword
+    GUI-Name: Aranha
+  Skeleton:
+    Name: '&eEsqueleto'
+    Material: head:301268e9c492da1f0d88271cb492a4b302395f515a7bbf77f4a20b95fc02eb2
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais'
+    - '&7de estimação desta categoria!'
+    Types:
+      Skeleton:
+        Name: '&5Esqueleto'
+        Material: head:301268e9c492da1f0d88271cb492a4b302395f515a7bbf77f4a20b95fc02eb2
+        Mystery Dust: 50
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Esqueleto'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Esqueleto'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Esqueleto'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Melon
+          - Water
+          - Feather
+          Really-Like:
+          - Bone
+          - Milk
+          - Stick
+          Favourite:
+          - Rotten Flesh
+          - Lava
+          - Sparring Sword
+      Wither Skeleton:
+        Name: '&6Esqueleto de Wither'
+        Material: head:7953b6c68448e7e6b6bf8fb273d7203acd8e1be19e81481ead51f45de59a8
+        Mystery Dust: 70
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Esqueleto de Wither'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Esqueleto de Wither'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Esqueleto de Wither'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Melon
+          - Water
+          - Feather
+          Really-Like:
+          - Rotten Flesh
+          - Milk
+          - Stick
+          Favourite:
+          - Bone
+          - Lava
+          - Sparring Sword
+      Stray Skeleton:
+        Name: '&6Stray Skeleton'
+        Material: head:78ddf76e555dd5c4aa8a0a5fc584520cd63d489c253de969f7f22f85a9a2d56
+        Mystery Dust: 85
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Stray Skeleton'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Stray Skeleton'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Stray Skeleton'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Melon
+          - Water
+          - Feather
+          Really-Like:
+          - Rotten Flesh
+          - Milk
+          - Frisbee
+          Favourite:
+          - Angus Steak
+          - Lava
+          - Sparring Sword
+    GUI-Name: Esqueleto
+  Blaze:
+    Name: '&eBlaze'
+    Material: head:b78ef2e4cf2c41a2d14bfde9caff10219f5b1bf5b35a49eb51c6467882cb5f0
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais'
+    - '&7de estimação desta categoria!'
+    Types:
+      Blaze:
+        Name: '&6Blaze'
+        Material: head:b78ef2e4cf2c41a2d14bfde9caff10219f5b1bf5b35a49eb51c6467882cb5f0
+        Mystery Dust: 55
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Blaze'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Blaze'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Blaze'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Melon
+          - Water
+          - Sparring Sword
+          Really-Like:
+          - Bone
+          - Milk
+          - Frisbee
+          Favourite:
+          - Magma Cream
+          - Lava
+          - Stick
+    GUI-Name: Blaze
+  Creeper:
+    Name: '&eCreeper'
+    Material: CREEPER_HEAD
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais'
+    - '&7de estimação desta categoria!'
+    Types:
+      Creeper:
+        Name: '&5Creeper'
+        Material: CREEPER_HEAD
+        Mystery Dust: 52
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Creeper'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Creeper'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Creeper'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Hay
+          - Water
+          - Sparring Sword
+          Really-Like:
+          - Flower
+          - Milk
+          - Frisbee
+          Favourite:
+          - Cake
+          - Lava
+          - Stick
+      Powered Creeper:
+        Name: '&6Super Creeper'
+        Material: head:f2ceb39dd4de24a7adfe291a3a0cfc7cf4f645de59b603fcfe06c6b5a06e26
+        Mystery Dust: 75
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.7
+        Lore:
+          Locked:
+          - '&7Tipo: &9Super Creeper'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Super Creeper'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Super Creeper'
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Hay
+          - Water
+          - Sparring Sword
+          Really-Like:
+          - Cake
+          - Milk
+          - Stick
+          Favourite:
+          - Flower
+          - Lava
+          - Frisbee
+    GUI-Name: Creeper
+  Golem:
+    Name: '&eGolem'
+    Material: head:89091d79ea0f59ef7ef94d7bba6e5f17f2f7d4572c44f90f76c4819a714
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais'
+    - '&7de estimação desta categoria!'
+    Types:
+      Golem:
+        Name: '&6Golem'
+        Material: head:89091d79ea0f59ef7ef94d7bba6e5f17f2f7d4572c44f90f76c4819a714
+        Mystery Dust: 200
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Golem'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Golem'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Golem'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Water
+          - Sparring Sword
+          Really-Like:
+          - Cake
+          - Milk
+          - Frisbee
+          Favourite:
+          - Flower
+          - Lava
+          - Ball
+    GUI-Name: Golem
+  Snowman:
+    Name: '&eBoneco de neve'
+    Material: head:8e8d206f61e6de8a79d0cb0bcd98aced464cbfefc921b4160a25282163112a
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais'
+    - '&7de estimação desta categoria!'
+    Types:
+      Snowman:
+        Name: '&5Boneco de neve'
+        Material: head:8e8d206f61e6de8a79d0cb0bcd98aced464cbfefc921b4160a25282163112a
+        Mystery Dust: 52
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Boneco de neve'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Boneco de neve'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Boneco de neve'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Pumpkin Pie
+          - Milk
+          - Ball
+          Favourite:
+          - Carrot
+          - Water
+          - Stick
+    GUI-Name: Boneco de neve
+  Polar Bear:
+    Name: '&ePolar Bear'
+    Material: head:bab178f5cdd750f0e356860aa5539153eb2abec1e146ca57c65d25a5df8fdfe
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais'
+    - '&7de estimação desta categoria!'
+    Types:
+      Polar Bear:
+        Name: '&5Urso Polar'
+        Material: head:bab178f5cdd750f0e356860aa5539153eb2abec1e146ca57c65d25a5df8fdfe
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Urso Polar'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Urso Polar'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Urso Polar'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Leash
+          Really-Like:
+          - Wheat
+          - Milk
+          - Ball
+          Favourite:
+          - Raw Fish
+          - Water
+          - Stick
+      Baby Polar Bear:
+        Name: '&6Urso Polar (Bebê)'
+        Material: head:bab178f5cdd750f0e356860aa5539153eb2abec1e146ca57c65d25a5df8fdfe
+        Mystery Dust: 75
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.5
+        Lore:
+          Locked:
+          - '&7Tipo: &9Urso Polar (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Urso Polar (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Urso Polar (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Leash
+          Really-Like:
+          - Raw Fish
+          - Water
+          - Stick
+          Favourite:
+          - Wheat
+          - Milk
+          - Ball
+    GUI-Name: Polar Bear
+  Llama:
+    Name: '&eLhama'
+    Material: head:83d9b5915912ffc2b85761d6adcb428a812f9b83ff634e331162ce46c99e9
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais'
+    - '&7de estimação desta categoria!'
+    Types:
+      Brown Llama:
+        Name: '&5Lhama: Marrom'
+        Material: head:c2b1ecff77ffe3b503c30a548eb23a1a08fa26fd67cdff389855d74921368
+        Mystery Dust: 60
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Lhama: Marrom'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Lhama: Marrom'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Lhama: Marrom'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Angus Steak
+          - Lava
+          - Leash
+          Really-Like:
+          - Wheat
+          - Milk
+          - Ball
+          Favourite:
+          - Hay
+          - Water
+          - Stick
+      Baby Brown Llama:
+        Name: '&6Lhama: Lhama (Bebê)'
+        Material: head:c2b1ecff77ffe3b503c30a548eb23a1a08fa26fd67cdff389855d74921368
+        Mystery Dust: 80
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.5
+        Lore:
+          Locked:
+          - '&7Tipo: &9Lhama: Marrom (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Lhama: Lhama (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Lhama: Lhama (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Angus Steak
+          - Lava
+          - Leash
+          Really-Like:
+          - Wheat
+          - Water
+          - Stick
+          Favourite:
+          - Cookie
+          - Milk
+          - Ball
+      Creamy Llama:
+        Name: '&5Lhama: Creme'
+        Material: head:80899acfebf947a0effc4022deb080543f7e389116bd4964c2c227ffa34a3375
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Lhama: Creme'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Lhama: Creme'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Lhama: Creme'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Angus Steak
+          - Lava
+          - Leash
+          Really-Like:
+          - Wheat
+          - Milk
+          - Ball
+          Favourite:
+          - Hay
+          - Water
+          - Stick
+      Baby Creamy Llama:
+        Name: '&6Lhama: Creme (Bebê)'
+        Material: head:80899acfebf947a0effc4022deb080543f7e389116bd4964c2c227ffa34a3375
+        Mystery Dust: 75
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.5
+        Lore:
+          Locked:
+          - '&7Tipo: &9Lhama: Creme (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Lhama: Creme (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Lhama: Creme (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Angus Steak
+          - Lava
+          - Leash
+          Really-Like:
+          - Wheat
+          - Water
+          - Stick
+          Favourite:
+          - Cookie
+          - Milk
+          - Ball
+      Gray Llama:
+        Name: '&5Lhama: Cinza'
+        Material: head:cf24e56fd9ffd7133da6d1f3e2f455952b1da462686f753c597ee82299a
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Lhama: Cinza'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Lhama: Cinza'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Lhama: Cinza'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Angus Steak
+          - Lava
+          - Leash
+          Really-Like:
+          - Wheat
+          - Milk
+          - Ball
+          Favourite:
+          - Hay
+          - Water
+          - Stick
+      Baby Gray Llama:
+        Name: '&6Lhama: Cinza (Bebê)'
+        Material: head:cf24e56fd9ffd7133da6d1f3e2f455952b1da462686f753c597ee82299a
+        Mystery Dust: 75
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.5
+        Lore:
+          Locked:
+          - '&7Tipo: &9Lhama: Cinza (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Lhama: Cinza (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Lhama: Cinza (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Angus Steak
+          - Lava
+          - Leash
+          Really-Like:
+          - Wheat
+          - Water
+          - Stick
+          Favourite:
+          - Cookie
+          - Milk
+          - Ball
+      White Llama:
+        Name: '&5Lhama: Branca'
+        Material: head:83d9b5915912ffc2b85761d6adcb428a812f9b83ff634e331162ce46c99e9
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.6
+        Lore:
+          Locked:
+          - '&7Tipo: &9Lhama: Branca'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Lhama: Branca'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&5Lhama: Branca'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Angus Steak
+          - Lava
+          - Leash
+          Really-Like:
+          - Wheat
+          - Milk
+          - Ball
+          Favourite:
+          - Hay
+          - Water
+          - Stick
+      Baby White Llama:
+        Name: '&6Lhama: Branca (Bebê)'
+        Material: head:83d9b5915912ffc2b85761d6adcb428a812f9b83ff634e331162ce46c99e9
+        Mystery Dust: 75
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Move-Speed: 0.5
+        Lore:
+          Locked:
+          - '&7Tipo: &9Lhama: Branca (Bebê)'
+          - ''
+          - '&7Clique para invocar.'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Lhama: Branca (Bebê)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+        Default-Pet-Name: '&6Lhama: Branca (Bebê)'
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Angus Steak
+          - Lava
+          - Leash
+          Really-Like:
+          - Wheat
+          - Water
+          - Stick
+          Favourite:
+          - Cookie
+          - Milk
+          - Ball
+    GUI-Name: Lhama
+  Bat:
+    Name: '&5Bat'
+    Material: COAL
+    GUI-Name: Bat
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais de estimação'
+    - '&7na categoria Morcego!'
+    Types:
+      Bat:
+        Name: '&5Bat'
+        Material: COAL
+        Mystery Dust: 37
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&5Bat'
+        Move-Speed: 0.7
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Leash
+          Really-Like:
+          - Cookie
+          - Milk
+          - Ball
+          Favourite:
+          - Melon
+          - Water
+          - Stick
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7o morcego fofinho seu'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Tipo: &9Bat'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+  Enderman:
+    Name: '&6Enderman'
+    Material: head:7a59bb0a7a32965b3d90d8eafa899d1835f424509eadd4e6b709ada50b9cf
+    GUI-Name: Enderman
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais de estimação'
+    - '&7na categoria Enderman!'
+    Types:
+      Enderman:
+        Name: '&6Enderman'
+        Material: head:7a59bb0a7a32965b3d90d8eafa899d1835f424509eadd4e6b709ada50b9cf
+        Mystery Dust: 150
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&6Enderman'
+        Move-Speed: 0.7
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Mushroom Soup
+          - Hay
+          - Wheat
+          - Raw Porkchop
+          - Angus Steak
+          - Rotten Flesh
+          - Magma Cream
+          - Lava
+          Really-Like:
+          - Pumpkin Pie
+          - Bone
+          - Water
+          - Leash
+          - Sparring Sword
+          Favourite:
+          - Baked Potato
+          - Milk
+          - Ball
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7Enderman fofinho seu'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Enderman'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+  Slime:
+    Name: '&6Slime'
+    Material: SLIME_BLOCK
+    GUI-Name: Slime
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais de estimação'
+    - '&7na categoria Slime!'
+    Types:
+      Big Slime:
+        Name: '&6Slime (Big)'
+        Material: SLIME_BLOCK
+        Mystery Dust: 100
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&6Slime (Big)'
+        Move-Speed: 0.7
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Rotten Flesh
+          - Water
+          - Stick
+          Favourite:
+          - Bone
+          - Milk
+          - Ball
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7Slime fofinho (Grande) seu'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Slime (Big)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Small Slime:
+        Name: '&5Slime (Small)'
+        Material: SLIME_BLOCK
+        Mystery Dust: 63
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&5Slime (Small)'
+        Move-Speed: 0.7
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Rotten Flesh
+          - Water
+          - Stick
+          Favourite:
+          - Bone
+          - Milk
+          - Ball
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7Slime fofinho (pequeno) seu'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Slime (Small)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Tiny Slime:
+        Name: '&9Slime (Tiny)'
+        Material: SLIME_BALL
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&9Slime (Tiny)'
+        Move-Speed: 0.7
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Rotten Flesh
+          - Water
+          - Stick
+          Favourite:
+          - Bone
+          - Milk
+          - Ball
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7Slime fofinho (minúsculo) seu'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Slime (Tiny)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Big Magma Cube:
+        Name: '&6Magma Cube (Big)'
+        Material: MAGMA_CREAM
+        Mystery Dust: 100
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&6Magma Cube (Big)'
+        Move-Speed: 0.7
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Apple
+          - Melon
+          - Pumpkin Pie
+          - Carrot
+          - Baked Potato
+          - Flower
+          - Hay
+          - Wheat
+          - Bread
+          - Cookie
+          - Cake
+          - Water
+          - Stick
+          Really-Like:
+          - Raw Porkchop
+          - Angus Steak
+          - Bone
+          - Milk
+          - Leash
+          - Frisbee
+          Favourite:
+          - Magma Cream
+          - Lava
+          - Ball
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7cuddly Magma Cube (Grande) seu'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Magma Cube (Big)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Small Magma Cube:
+        Name: '&5Magma Cube (Small)'
+        Material: BLAZE_POWDER
+        Mystery Dust: 63
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&5Magma Cube (Small)'
+        Move-Speed: 0.7
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Apple
+          - Melon
+          - Pumpkin Pie
+          - Carrot
+          - Baked Potato
+          - Flower
+          - Hay
+          - Wheat
+          - Bread
+          - Cookie
+          - Cake
+          - Water
+          - Stick
+          Really-Like:
+          - Raw Porkchop
+          - Angus Steak
+          - Bone
+          - Milk
+          - Leash
+          - Frisbee
+          Favourite:
+          - Magma Cream
+          - Lava
+          - Ball
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7cuddly Magma Cube (pequeno) seu'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Magma Cube (Small)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Tiny Magma Cube:
+        Name: '&9Magma Cube (Tiny)'
+        Material: LAVA_BUCKET
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&9Magma Cube (Tiny)'
+        Move-Speed: 0.7
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Apple
+          - Melon
+          - Pumpkin Pie
+          - Carrot
+          - Baked Potato
+          - Flower
+          - Hay
+          - Wheat
+          - Bread
+          - Cookie
+          - Cake
+          - Water
+          - Stick
+          Really-Like:
+          - Raw Porkchop
+          - Angus Steak
+          - Bone
+          - Milk
+          - Leash
+          - Frisbee
+          Favourite:
+          - Magma Cream
+          - Lava
+          - Ball
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7cuddly Magma Cube (minúsculo) seu'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Magma Cube (Tiny)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+  Squid:
+    Name: '&6Squid'
+    Material: INK_SAC
+    GUI-Name: Squid
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais de estimação'
+    - '&7na categoria Lula!'
+    Types:
+      Squid:
+        Name: '&6Squid'
+        Material: INK_SAC
+        Mystery Dust: 78
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&6Squid'
+        Move-Speed: 0.7
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Pumpkin Pie
+          - Wheat
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Milk
+          - Stick
+          - Ball
+          Favourite:
+          - Raw Fish
+          - Water
+          - Frisbee
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7cuddly Squid your'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Squid'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+  Panda:
+    Name: '&6Panda'
+    Material: head:dca096eea506301bea6d4b17ee1605625a6f5082c71f74a639cc940439f47166
+    GUI-Name: Panda
+    Enabled: true
+    Lore:
+    - '&7Clique aqui para ver todos os animais de estimação'
+    - '&7na categoria Panda!'
+    Types:
+      Normal Panda:
+        Name: '&5Panda: Normal'
+        Material: head:dca096eea506301bea6d4b17ee1605625a6f5082c71f74a639cc940439f47166
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&5Panda: Normal'
+        Move-Speed: 0.6
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Raw Fish
+          - Raw Porkchop
+          - Angus Steak
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cake
+          - Water
+          - Ball
+          Favourite:
+          - Apple
+          - Milk
+          - Stick
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7Panda fofinho: Normal seu'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Panda: Normal'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Baby Normal Panda:
+        Name: '&6Panda: Normal (Baby)'
+        Material: head:dca096eea506301bea6d4b17ee1605625a6f5082c71f74a639cc940439f47166
+        Mystery Dust: 75
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&6Panda: Normal (Baby)'
+        Move-Speed: 0.5
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Raw Fish
+          - Raw Porkchop
+          - Angus Steak
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cake
+          - Water
+          - Stick
+          Favourite:
+          - Apple
+          - Milk
+          - Ball
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7Panda fofinho: Normal (Bebê) seu'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Panda: Normal (Baby)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Lazy Panda:
+        Name: '&5Panda: Lazy'
+        Material: head:7818b681cace1c641919f53edadecb142330d089a826b56219138c33b7a5e0db
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&5Panda: Lazy'
+        Move-Speed: 0.6
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Raw Fish
+          - Raw Porkchop
+          - Angus Steak
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cake
+          - Water
+          - Ball
+          Favourite:
+          - Apple
+          - Milk
+          - Stick
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7Panda fofinho: Preguiçoso seu'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Panda: Lazy'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Baby Lazy Panda:
+        Name: '&6Panda: Lazy (Baby)'
+        Material: head:7818b681cace1c641919f53edadecb142330d089a826b56219138c33b7a5e0db
+        Mystery Dust: 75
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&6Panda: Lazy (Baby)'
+        Move-Speed: 0.5
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Raw Fish
+          - Raw Porkchop
+          - Angus Steak
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cake
+          - Water
+          - Stick
+          Favourite:
+          - Apple
+          - Milk
+          - Ball
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7Panda fofinho: Preguiçoso (bebê) seu'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Panda: Lazy (Baby)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Worried Panda:
+        Name: '&5Panda: Worried'
+        Material: head:c8e921c57e54dd07337ffba629e72caf3850d836b76562b1bc3bc5949f2d41d
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&5Panda: Worried'
+        Move-Speed: 0.6
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Raw Fish
+          - Raw Porkchop
+          - Angus Steak
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cake
+          - Water
+          - Ball
+          Favourite:
+          - Apple
+          - Milk
+          - Stick
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7Panda fofinho: Preocupado com o seu'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Panda: Worried'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Baby Worried Panda:
+        Name: '&6Panda: Worried (Baby)'
+        Material: head:c8e921c57e54dd07337ffba629e72caf3850d836b76562b1bc3bc5949f2d41d
+        Mystery Dust: 75
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&6Panda: Worried (Baby)'
+        Move-Speed: 0.5
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Raw Fish
+          - Raw Porkchop
+          - Angus Steak
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cake
+          - Water
+          - Stick
+          Favourite:
+          - Apple
+          - Milk
+          - Ball
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7Panda fofinho: Preocupado (bebê) seu'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Panda: Worried (Baby)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Playful Panda:
+        Name: '&5Panda: Playful'
+        Material: head:b6463e64ce29764db3cb46806cee606afc24bdf0ce14b6660c270a96c787426
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&5Panda: Playful'
+        Move-Speed: 0.6
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Raw Fish
+          - Raw Porkchop
+          - Angus Steak
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cake
+          - Water
+          - Ball
+          Favourite:
+          - Apple
+          - Milk
+          - Stick
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7Panda fofinho: Brincalhão seu'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Panda: Playful'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Baby Playful Panda:
+        Name: '&6Panda: Playful (Baby)'
+        Material: head:b6463e64ce29764db3cb46806cee606afc24bdf0ce14b6660c270a96c787426
+        Mystery Dust: 75
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&6Panda: Playful (Baby)'
+        Move-Speed: 0.5
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Raw Fish
+          - Raw Porkchop
+          - Angus Steak
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cake
+          - Water
+          - Stick
+          Favourite:
+          - Apple
+          - Milk
+          - Ball
+        Lore:
+          Locked:
+          - '&7Make this awesome and'
+          - '&7cuddly Panda: Playful (Baby) yours'
+          - '&7today!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Panda: Playful (Baby)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Brown Panda:
+        Name: '&5Panda: Brown'
+        Material: head:c5d0d45bf992b072cf5c513e06beefe8bdc809c8150f3d14b883796a7b74e406
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&5Panda: Brown'
+        Move-Speed: 0.6
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Raw Fish
+          - Raw Porkchop
+          - Angus Steak
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cake
+          - Water
+          - Ball
+          Favourite:
+          - Apple
+          - Milk
+          - Stick
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7Panda fofinho: Doure o seu'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Panda: Brown'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Baby Brown Panda:
+        Name: '&6Panda: Brown (Baby)'
+        Material: head:c5d0d45bf992b072cf5c513e06beefe8bdc809c8150f3d14b883796a7b74e406
+        Mystery Dust: 75
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&6Panda: Brown (Baby)'
+        Move-Speed: 0.5
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Raw Fish
+          - Raw Porkchop
+          - Angus Steak
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cake
+          - Water
+          - Stick
+          Favourite:
+          - Apple
+          - Milk
+          - Ball
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7Panda fofinho: Brown (Bebê) seu'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Panda: Brown (Baby)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Weak Panda:
+        Name: '&5Panda: Weak'
+        Material: head:5c2d25e956337d82791fa0e6617a40086f02d6ebfbfd5a6459889cf206fca787
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&5Panda: Weak'
+        Move-Speed: 0.6
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Raw Fish
+          - Raw Porkchop
+          - Angus Steak
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cake
+          - Water
+          - Ball
+          Favourite:
+          - Apple
+          - Milk
+          - Stick
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7Panda fofinho: o seu fraco'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Panda: Weak'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Baby Weak Panda:
+        Name: '&6Panda: Weak (Baby)'
+        Material: head:5c2d25e956337d82791fa0e6617a40086f02d6ebfbfd5a6459889cf206fca787
+        Mystery Dust: 75
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&6Panda: Weak (Baby)'
+        Move-Speed: 0.5
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Raw Fish
+          - Raw Porkchop
+          - Angus Steak
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cake
+          - Water
+          - Stick
+          Favourite:
+          - Apple
+          - Milk
+          - Ball
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7Panda fofinho: Fraco (bebê) seu'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Panda: Weak (Baby)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Aggressive Panda:
+        Name: '&5Panda: Aggressive'
+        Material: head:83fe1e782ae96a30336a03ef74681ce3a6905fcc673fa56c046aaee6aa28307d
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&5Panda: Aggressive'
+        Move-Speed: 0.6
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Raw Fish
+          - Raw Porkchop
+          - Angus Steak
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cake
+          - Water
+          - Ball
+          Favourite:
+          - Apple
+          - Milk
+          - Stick
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7Panda fofinho: seu agressivo'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Panda: Aggressive'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Baby Aggressive Panda:
+        Name: '&6Panda: Aggressive (Baby)'
+        Material: head:83fe1e782ae96a30336a03ef74681ce3a6905fcc673fa56c046aaee6aa28307d
+        Mystery Dust: 75
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&6Panda: Aggressive (Baby)'
+        Move-Speed: 0.5
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Raw Fish
+          - Raw Porkchop
+          - Angus Steak
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cake
+          - Water
+          - Stick
+          Favourite:
+          - Apple
+          - Milk
+          - Ball
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7Panda fofinho: Agressivo (bebê) seu'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Panda: Aggressive (Baby)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+  Turtle:
+    Name: '&6Turtle'
+    Material: head:fc8593b91058ff24a0f6845130ed3e449569ce9c6b22fa9cd1ed7360b5045ea3
+    GUI-Name: Turtle
+    Enabled: true
+    Lore:
+    - '&7Click here to see all pets'
+    - '&7in the Turtle category!'
+    Types:
+      Turtle:
+        Name: '&5Turtle'
+        Material: head:fc8593b91058ff24a0f6845130ed3e449569ce9c6b22fa9cd1ed7360b5045ea3
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&5Turtle'
+        Move-Speed: 0.4
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Raw Porkchop
+          - Angus Steak
+          - Rotten Flesh
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Raw Fish
+          - Water
+          - Ball
+          Favourite:
+          - Carrot
+          - Milk
+          - Stick
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7Tartaruga fofinha sua'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Turtle'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Baby Turtle:
+        Name: '&6Turtle (Baby)'
+        Material: TURTLE_EGG
+        Mystery Dust: 75
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&6Turtle (Baby)'
+        Move-Speed: 0.4
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Raw Porkchop
+          - Angus Steak
+          - Rotten Flesh
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Raw Fish
+          - Water
+          - Stick
+          Favourite:
+          - Carrot
+          - Milk
+          - Ball
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7Tartaruga fofinha (Bebê) sua'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Turtle (Baby)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+  Fox:
+    Name: '&6Fox'
+    Material: head:d8954a42e69e0881ae6d24d4281459c144a0d5a968aed35d6d3d73a3c65d26a
+    GUI-Name: Fox
+    Enabled: true
+    Lore:
+    - '&7Click here to see all pets'
+    - '&7in the Fox category!'
+    Types:
+      Red Fox:
+        Name: '&5Red Fox'
+        Material: head:d8954a42e69e0881ae6d24d4281459c144a0d5a968aed35d6d3d73a3c65d26a
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&5Red Fox'
+        Move-Speed: 0.7
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Flower
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cake
+          - Water
+          - Frisbee
+          Favourite:
+          - Wheat
+          - Milk
+          - Ball
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7cuddly Red Fox seu'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Red Fox'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Baby Red Fox:
+        Name: '&6Red Fox (Baby)'
+        Material: FOX_SPAWN_EGG
+        Mystery Dust: 75
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&6Red Fox (Baby)'
+        Move-Speed: 0.7
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Flower
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Wheat
+          - Water
+          - Frisbee
+          Favourite:
+          - Cake
+          - Milk
+          - Ball
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7cuddly Red Fox (Baby) yours'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Red Fox (Baby)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Snow Fox:
+        Name: '&6Snow Fox'
+        Material: head:41436377eb4c4b4e39fb0e1ed8899fb61ee1814a9169b8d08729ef01dc85d1ba
+        Mystery Dust: 65
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&6Snow Fox'
+        Move-Speed: 0.7
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Flower
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Cake
+          - Water
+          - Frisbee
+          Favourite:
+          - Wheat
+          - Milk
+          - Ball
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7 raposa da neve fofinha sua'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Snow Fox'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Baby Snow Fox:
+        Name: '&6Snow Fox (Baby)'
+        Material: FOX_SPAWN_EGG
+        Mystery Dust: 80
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&6Snow Fox (Baby)'
+        Move-Speed: 0.7
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Flower
+          - Magma Cream
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Wheat
+          - Water
+          - Frisbee
+          Favourite:
+          - Cake
+          - Milk
+          - Ball
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7 raposa fofinha da neve (bebê) sua'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Snow Fox (Baby)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+  Goat:
+    Name: '&6Goat'
+    Material: head:457a0d538fa08a7affe312903468861720f9fa34e86d44b89dcec5639265f03
+    GUI-Name: Goat
+    Enabled: true
+    Lore:
+    - '&7Click here to see all pets'
+    - '&7in the Goat category!'
+    Types:
+      Goat:
+        Name: '&5Goat'
+        Material: head:457a0d538fa08a7affe312903468861720f9fa34e86d44b89dcec5639265f03
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&5Goat'
+        Move-Speed: 0.7
+        Ride-Speed: 0.45
+        Pet-Item-Interest:
+          Dislike:
+          - Raw Porkchop
+          - Angus Steak
+          - Rotten Flesh
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Carrot
+          - Water
+          - Ball
+          Favourite:
+          - Wheat
+          - Milk
+          - Stick
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7cabra fofinha sua'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Goat'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'
+      Baby Goat:
+        Name: '&6Goat (Baby)'
+        Material: WHEAT
+        Mystery Dust: 75
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Default-Pet-Name: '&6Goat (Baby)'
+        Move-Speed: 0.7
+        Ride-Speed: 0.4
+        Pet-Item-Interest:
+          Dislike:
+          - Raw Porkchop
+          - Angus Steak
+          - Rotten Flesh
+          - Lava
+          - Sparring Sword
+          Really-Like:
+          - Carrot
+          - Water
+          - Stick
+          Favourite:
+          - Wheat
+          - Milk
+          - Ball
+        Lore:
+          Locked:
+          - '&7Faça isso incrível e'
+          - '&7cabra fofinha (bebê) sua'
+          - '&7hoje!'
+          Unlocked:
+          - '{LEVEL}{PET_NAME}'
+          - '&7EXP: {EXP}'
+          - '&7Type: &9Goat (Baby)'
+          - ''
+          - '&7Status: {HAPPINESS}'
+          - ''
+          - '&7Hunger: {HUNGER}'
+          - '&7Thirst: {THIRST}'
+          - '&7Exercise: {EXERCISE}'

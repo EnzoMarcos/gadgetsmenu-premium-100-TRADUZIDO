@@ -1,0 +1,165 @@
+Cloaks:
+  Superhero:
+    Name: '&6Capa de Super-Heroi'
+    Material: head:d6c285d439dc98585389925e34ced190ae6e415ccb6fca922fd0552034f
+    Mystery Dust: 65
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id001
+      - '&7Direto do quadrinho'
+      - '&7vem aquela assinatura'
+      - '&7capa vermelha!'
+      Unlocked: *id001
+  Mystical:
+    Name: '&6Capa MÃ­stica'
+    Material: head:29502ab33bb2c8d6a90fff8501bcb9585d1c2efe445a11e3807b18618b0cdd2b
+    Mystery Dust: 85
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id002
+      - '&7Envolvida em mistÃ©rio, estÃ¡'
+      - '&7capa Ã© o centro de'
+      - '&7numerosas lendas sobre'
+      - '&7seus poderes.'
+      Unlocked: *id002
+  Firewings:
+    Name: '&6Asas de Fogo'
+    Material: head:70a44d51ecc79f694cfd60228c88428848ca618e36a659a416e9246d841aec8
+    Mystery Dust: 72
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id003
+      - '&7Ressurgir das cinzas como uma'
+      - '&7fÃªnix nesta exibicao de'
+      - '&7chamas!'
+      Unlocked: *id003
+  Vampire Wings:
+    Name: '&6Asas de Vampiro'
+    Material: head:8d44756e0b4ece8d746296a3d5e297e1415f4ba17647ffe228385383d161a9
+    Mystery Dust: 78
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id004
+      - '&7Asas gigantes pretas e vermelhas'
+      - '&7estendida em suas costas em'
+      - '&7forma de vampiro ameacador.'
+      Unlocked: *id004
+  Frosty:
+    Name: '&6Capa Gelada'
+    Material: head:cad7486b5d20823d5c24cba1850a600a7744209899828b19ccf93f69f2187058
+    Mystery Dust: 78
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id005
+      - '&7O frio nunca me incomodou'
+      - '&7de qualquer forma!'
+      Unlocked: *id005
+  Icewings:
+    Name: '&6Asas de Gelo'
+    Material: head:d3e1c5e65e13559bf60e154f17f6af3a8e5608a4987ecd1e0fae751c6f82726
+    Mystery Dust: 72
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id006
+      - '&7Sou so eu ou estÃ¡ frio'
+      - '&7aqui?'
+      Unlocked: *id006
+  Shaman:
+    Name: '&6Capa de Tornado'
+    Material: head:7e09391747979e94c97a25945355163a181cd9e490d6901431d4fb0ad781facc
+    Mystery Dust: 85
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id007
+      - '&7Esteja cercado por um tornado,'
+      - '&7semelhante ao Tornado do Shaman'
+      Unlocked: *id007
+  Firerings:
+    Name: '&6Capa de Fogo'
+    Material: head:4080bbefca87dc0f36536b6508425cfc4b95ba6e8f5e6a46ff9e9cb488a9ed
+    Mystery Dust: 50
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id008
+      - '&7Ser cercado por chamas, '
+      - '&7talvez a maneira como voce anda seja'
+      - '&7queimado em cinzas.'
+      Unlocked: *id008
+  Scanner:
+    Name: '&6Capa Scanner'
+    Material: head:2376aaf6776126fb93e2a1ebf274c64633e2e2714473fe9f2dd0598a5d77bd
+    Mystery Dust: 65
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id009
+      - '&7Bleep Bloop!'
+      Unlocked: *id009
+  Archangel:
+    Name: '&6Capa Arcanjo'
+    Material: head:36f0485453d3a90f354321e8f382bef106bf506424f70c04a207f82bdb2856b9
+    Mystery Dust: 70
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id010
+      - '&7Sometimes angels are just'
+      - '&7ordinary people that help'
+      - '&7us believe in miracles'
+      - '&7again.'
+      Unlocked: *id010
+  Yin and Yang:
+    Name: '&6Capa Yin Yang'
+    Material: head:7fc0e041e45e1d96934bb9159e7b9e1ed74ff99a9b9342214302fdba57fd2
+    Mystery Dust: 62
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id011
+      - '&7Achieve the balance of the'
+      - '&7universe and watch it spin'
+      - '&7beneath your feet.'
+      Unlocked: *id011
+  Flame of the Titans:
+    Name: '&6Capa Chama dos Titans'
+    Material: MAGMA_CREAM
+    Mystery Dust: 65
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id012
+      - '&7These flames are said to be'
+      - '&7the spirit of a Titan.'
+      Unlocked: *id012

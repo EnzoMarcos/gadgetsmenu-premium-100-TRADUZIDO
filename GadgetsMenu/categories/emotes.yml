@@ -1,0 +1,292 @@
+Emotes:
+  Smile:
+    Name: '&aEmote de Sorriso'
+    Cooldown: 10
+    Mystery Dust: 10
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fHEHE'
+    Lore:
+      Locked: &id001
+      - '&7EstÃ¡ feliz ? Mostre seu sorriso'
+      - '&7de felicidade para todos'
+      - '&7usando o Sorriso Emote!'
+      Unlocked: *id001
+  Cool:
+    Name: '&aEmote Legal'
+    Cooldown: 10
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fB)'
+    Lore:
+      Locked: &id002
+      - '&7Sinta-se como o gato mais legal'
+      - '&7do servidor ? Mostre a todos'
+      - '&7usando o Legal Emote!'
+      Unlocked: *id002
+  Wink:
+    Name: '&aEmote Piscada'
+    Cooldown: 10
+    Mystery Dust: 12
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fPiscadinha!!'
+    Lore:
+      Locked: &id003
+      - '&7Se divertindo? Deixar alguém'
+      - '&7feliz mostrando a sua '
+      - '&7Piscada Emote'
+      Unlocked: *id003
+  Grin:
+    Name: '&aSorriso Emote'
+    Cooldown: 10
+    Mystery Dust: 13
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fHAHA!'
+    Lore:
+      Locked: &id004
+      - '&7Está se sentindo bem ?,'
+      - '&7que tal mostrar o sorriso para todos'
+      - '&7use o Sorisso Emote!'
+      Unlocked: *id004
+  Surprised:
+    Name: '&aSurpreso Emote'
+    Cooldown: 10
+    Mystery Dust: 15
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fUAU'
+    Lore:
+      Locked: &id005
+      - '&7Algo chocou voce?'
+      - '&7Deixe todos saber'
+      - '&7que esta surpreso usand o Surpreso'
+      - '&7Emote!'
+      Unlocked: *id005
+  Cry:
+    Name: '&9Chorando Emote'
+    Cooldown: 10
+    Mystery Dust: 25
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fBuaaa!'
+    Lore:
+      Locked: &id006
+      - '&7Se sente triste? Derramas lagrimas?'
+      - '&7deixe todos sabendo usando o Chorando'
+      - '&7Emote!'
+      Unlocked: *id006
+  Sleepy:
+    Name: '&9Dormindo Emote'
+    Cooldown: 10
+    Mystery Dust: 20
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fZZzzzz'
+    Lore:
+      Locked: &id007
+      - '&7A noite chegou e esta com sono ?'
+      - '&7Mostre a todos como esta com sono'
+      - '&7use o Dormindo Emote!'
+      Unlocked: *id007
+  Rage:
+    Name: '&9Raiva Emote'
+    Cooldown: 10
+    Mystery Dust: 23
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&cGRRRRR!!!'
+    Lore:
+      Locked: &id008
+      - '&7Tem algo fervendo em sua cabeca ?'
+      - '&7Deixe os outros saberem usando oh'
+      - '&7Raiva Emote!'
+      Unlocked: *id008
+  Frown:
+    Name: '&9Encarando Emote'
+    Cooldown: 10
+    Mystery Dust: 22
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fRumm'
+    Lore:
+      Locked: &id009
+      - '&7Alguma coisa te derrubou?'
+      - '&7Deixe o mundo saber com'
+      - '&7este Encarando Emote!'
+      Unlocked: *id009
+  Cheeky:
+    Name: '&9Atrevido Emote'
+    Cooldown: 10
+    Mystery Dust: 22
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&f:P'
+    Lore:
+      Locked: &id010
+      - '&7Até alguma travessura? Avise'
+      - '&7a todos como você esta se sentindo'
+      - '&7use o Atrevido Emote'
+      Unlocked: *id010
+  Sun Tan:
+    Name: '&9Bronzeado Emote'
+    Cooldown: 10
+    Mystery Dust: 25
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fBronzeado'
+    Lore:
+      Locked: &id011
+      - '&7Você esqueceu seu protetor solar'
+      - '&7quando voce foi para a praia'
+      - '&7Deixe os outros saberem disso usado o'
+      - '&7Brozeado Emote!'
+      Unlocked: *id011
+  Heart Eyes:
+    Name: '&9Apaixonado Emote'
+    Cooldown: 10
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&d❤  ❤'
+    Lore:
+      Locked: &id012
+      - '&7Sentindo-se bem? Espalhe o'
+      - '&7amor com o Apaixonado Emote'
+      Unlocked: *id012
+  Dizzy:
+    Name: '&9Tonto Emote'
+    Cooldown: 10
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fx_x'
+    Lore:
+      Locked: &id013
+      - '&7A montanha-russa não é'
+      - '&7para você? Mostre aos outros como'
+      - '&7voce se sente Tonto Emote'
+      Unlocked: *id013
+  RIP:
+    Name: '&9RIP Emote'
+    Cooldown: 10
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fDescanse em Paz'
+    Lore:
+      Locked: &id014
+      - '&7Você recebeu aquele golpe'
+      - '&7final? Tenha misericordia de seu'
+      - '&7oponentes com este'
+      - '&7RIP Emote!'
+      Unlocked: *id014
+  Relax:
+    Name: '&9Relaxar Emote'
+    Cooldown: 10
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fRelaxar'
+    Lore:
+      Locked: &id015
+      - '&7Se sentindo aconchegante? Com certeza você'
+      - '&7vai com o Relaxante Emote!'
+      Unlocked: *id015
+  Spicy:
+    Name: '&9Picante Emote'
+    Cooldown: 10
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fPicante!'
+    Lore:
+      Locked: &id016
+      - '&7Aquela pimenta habanero'
+      - '&7atingiu voce? Deixe o resto'
+      - '&7deixe todos saber com o Picante Emote!'
+      Unlocked: *id016
+  Deal With It:
+    Name: '&9Lide com isso Emote'
+    Cooldown: 10
+    Mystery Dust: 28
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fLide com isso :)'
+    Lore:
+      Locked: &id017
+      - '&7Você tem vontade de se'
+      - '&7exibir? Deixe os outros verem como'
+      - '&7voce se sente com o real'
+      - '&7Lide com isso Emote!'
+      Unlocked: *id017

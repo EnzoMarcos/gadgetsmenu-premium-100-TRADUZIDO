@@ -1,0 +1,80 @@
+MainMenu:
+  Hats:
+    Name: '&eChapéus'
+    Material: head:8a57f04a62c0cdebf81e098e000172a5e17f55c06840790738ba166bd926882c
+    Lore:
+    - '&7Colete todos os chapéus e'
+    - '&7use-os enquanto estiver em um lobby.'
+  Animated Hats:
+    Name: '&eChapéus Animados'
+    Material: head:5ebfd2396cbabdb42c348bcf41599c87a506a71ef60948c496f95c6cb63141
+    Lore:
+    - '&7Esses chapeus dão um passo a frente'
+    - '&7para o futuro.'
+  Particles:
+    Name: '&ePartículas'
+    Material: BLAZE_POWDER
+    Lore:
+    - '&7Faça partículas girarem ao seu redor'
+    - '&7enquanto estiver em um lobby'
+    - '&7usando essas partículas legais.'
+  Suits:
+    Name: '&eTrajes'
+    Material: head:55507d6517eff952dd38fa8bc551dd6d6a7a5e4ea134519b44650ac1ffa59c3
+    Lore:
+    - '&7Colete e vista todas as'
+    - '&7peças de um traje específico'
+    - '&7para obter efeitos unicos!'
+  Gadgets:
+    Name: '&eEngenhocas'
+    Material: PISTON
+    Lore:
+    - '&7Quer encantar os seus'
+    - '&7amigos com engenhocas especiais?'
+    - '&7Essas engenhocas divertidas podem'
+    - '&7ser usadas no lobby.'
+  Pets:
+    Name: '&eAnimais de Estimação'
+    Material: head:290816ec66d1ac85e59c4c96218058c3aa6f5488cc32dbf317b765753328075b
+    Lore:
+    - '&7Desbloqueie esses animais de estimacao para ter'
+    - '&7eles seguindo você por ai.'
+  Banners:
+    Name: '&eBanners'
+    Material: CUSTOM_MATERIAL_1
+    Lore:
+    - '&7Desbloqueie todos os Banners e'
+    - '&7use os como chapéu enquanto estiver'
+    - '&7no lobby!'
+  Emotes:
+    Name: '&eEmotes'
+    Material: head:60c432cbc490a8af6e9dfeb28095c0a0ec79fff705fb184674d1e743bd05baa
+    Lore:
+    - '&7Expresse suas emoções! Mostre '
+    - '&7ao mundo como se sente!'
+  Cloaks:
+    Name: '&eCapas'
+    Material: PAPER
+    Lore:
+    - '&7Use capas estilosas feitas'
+    - '&7de partículas coloridas.'
+    - '&7Ative ela e aguarde 1,'
+    - '&7segundo parado no'
+    - '&7lobby do servidor.'
+  Miniatures:
+    Name: '&eMiniatures'
+    Material: head:9da39269ef45f825ec61bb4f8aa09bd3cf07996fb6fac338a6e91d6699ae425
+    Lore:
+    - '&7Desbloqueie estas miniaturas para'
+    - '&7tenha um amiguinho para seguir'
+    - '&7você nos lobbies!'
+  Morphs:
+    Name: '&eTransformações'
+    Material: ZOMBIE_HEAD
+    Lore:
+    - '&7A transformações final!'
+    - '&7Usando estes em lobbies'
+    - '&7voce ira se transformar em'
+    - '&7monstros!'
+Slot-Layout: 9, 11, 13, 15, 17, 27, 29, 31, 33, 35
+Inventory-Size: 54

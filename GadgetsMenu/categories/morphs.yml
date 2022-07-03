@@ -1,0 +1,240 @@
+Morphs:
+  Pig:
+    Name: '&9Transformacão Porco'
+    Material: COOKED_PORKCHOP
+    Cooldown: 10
+    Mystery Dust: 25
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id001
+      - '&7Se transforme em porco. Use'
+      - '&7a gosma na sua hotbar para'
+      - '&7ativar ou desativar a transformacao.'
+      Unlocked: *id001
+    Morph-Ability: true
+    Enabled-Ability: true
+  Cow:
+    Name: '&9Transformacao Vaca'
+    Material: COOKED_BEEF
+    Cooldown: 10
+    Mystery Dust: 20
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id002
+      - '&7Se transforme em porco. Use'
+      - '&7a gosma na sua hotbar para'
+      - '&7ativar ou desativar a transformacao.'
+      Unlocked: *id002
+    Morph-Ability: true
+    Enabled-Ability: true
+  Enderman:
+    Name: '&5Transformacao Enderman'
+    Material: ENDER_PEARL
+    Cooldown: 10
+    Mystery Dust: 60
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id003
+      - '&7Se transforme em porco. Use'
+      - '&7a gosma na sua hotbar para'
+      - '&7ativar ou desativar a transformacao.'
+      Unlocked: *id003
+    Morph-Ability: true
+    Enabled-Ability: true
+  Chicken:
+    Name: '&5Transformacao Galinha'
+    Material: EGG
+    Cooldown: 10
+    Mystery Dust: 35
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id004
+      - '&7Se transforme em porco. Use'
+      - '&7a gosma na sua hotbar para'
+      - '&7ativar ou desativar a transformacao.'
+      Unlocked: *id004
+    Morph-Ability: true
+    Enabled-Ability: true
+  Spider:
+    Name: '&5Transformacao Aranha'
+    Material: COBWEB
+    Cooldown: 10
+    Mystery Dust: 50
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id005
+      - '&7Se transforme em porco. Use'
+      - '&7a gosma na sua hotbar para'
+      - '&7ativar ou desativar a transformacao.'
+      Unlocked: *id005
+    Morph-Ability: true
+    Enabled-Ability: true
+  Sheep:
+    Name: '&5Transformacao Ovelha'
+    Material: WHITE_WOOL
+    Cooldown: 10
+    Mystery Dust: 50
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id006
+      - '&7Se transforme em porco. Use'
+      - '&7a gosma na sua hotbar para'
+      - '&7ativar ou desativar a transformacao.'
+      Unlocked: *id006
+    Morph-Ability: true
+    Enabled-Ability: true
+  Skeleton:
+    Name: '&5Transformacao Esqueleto'
+    Material: BOW
+    Cooldown: 10
+    Mystery Dust: 70
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id007
+      - '&7Se transforme em porco. Use'
+      - '&7a gosma na sua hotbar para'
+      - '&7ativar ou desativar a transformacao.'
+      Unlocked: *id007
+    Morph-Ability: true
+    Enabled-Ability: true
+  Creeper:
+    Name: '&6Transformacao Creeper'
+    Material: TNT
+    Cooldown: 10
+    Mystery Dust: 95
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id008
+      - '&7Se transforme em porco. Use'
+      - '&7a gosma na sua hotbar para'
+      - '&7ativar ou desativar a transformacao.'
+      Unlocked: *id008
+    Morph-Ability: true
+    Affect-Players: true
+    Enabled-Ability: true
+  Blaze:
+    Name: '&6Transformacao Blaze'
+    Material: BLAZE_POWDER
+    Cooldown: 10
+    Mystery Dust: 125
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id009
+      - '&7Se transforme em porco. Use'
+      - '&7a gosma na sua hotbar para'
+      - '&7ativar ou desativar a transformacao.'
+      Unlocked: *id009
+    Morph-Ability: true
+    Enabled-Ability: true
+  Zombie:
+    Name: '&6Transformacao Zumbi'
+    Material: ROTTEN_FLESH
+    Cooldown: 10
+    Mystery Dust: 105
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id010
+      - '&7Se transforme em porco. Use'
+      - '&7a gosma na sua hotbar para'
+      - '&7ativar ou desativar a transformacao.'
+      Unlocked: *id010
+    Morph-Ability: true
+    Enabled-Ability: true
+  Iron Golem:
+    Name: '&6Transformacao Golem'
+    Material: IRON_BLOCK
+    Cooldown: 10
+    Mystery Dust: 120
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id011
+      - '&7Se transforme em porco. Use'
+      - '&7a gosma na sua hotbar para'
+      - '&7ativar ou desativar a transformacao.'
+      Unlocked: *id011
+    Morph-Ability: true
+    Enabled-Ability: true
+  Witch:
+    Name: '&6Transformacao Bruxa'
+    Material: POTION:8196
+    Cooldown: 10
+    Mystery Dust: 110
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id012
+      - '&7Se transforme em porco. Use'
+      - '&7a gosma na sua hotbar para'
+      - '&7ativar ou desativar a transformacao.'
+      Unlocked: *id012
+    Morph-Ability: true
+    Enabled-Ability: true
+  Snowman:
+    Name: '&6Transformacao Boneco da neve'
+    Material: SNOWBALL
+    Cooldown: 10
+    Mystery Dust: 125
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id013
+      - '&7Se transforme em porco. Use'
+      - '&7a gosma na sua hotbar para'
+      - '&7ativar ou desativar a transformacao.'
+      Unlocked: *id013
+    Morph-Ability: true
+    Enabled-Ability: true
+  Guardian:
+    Name: '&6Transformacao Guardiao'
+    Material: PRISMARINE_SHARD
+    Cooldown: 10
+    Mystery Dust: 130
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+      Locked: &id014
+      - '&7Se transforme em porco. Use'
+      - '&7a gosma na sua hotbar para'
+      - '&7ativar ou desativar a transformacao.'
+      Unlocked: *id014
+    Morph-Ability: true
+    Enabled-Ability: true

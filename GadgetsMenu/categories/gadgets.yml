@@ -1,0 +1,964 @@
+Gadgets:
+  Fun And Games:
+    Name: '&eDiversão e Jogos'
+    Material: head:b89042082bb7a7618b784ee7605a134c58834e21e374c888937161057f6c7
+    Enabled: true
+    Lore:
+    - '&7Desfrute de engenhocas'
+    - '&7mirabolantes em seu lobby,'
+    - '&7e divirta-se com os outros'
+    - '&7jogadores!'
+    Types:
+      Magic 9 Ball:
+        Name: '&aConversa da Zueira'
+        Material: head:df7f40a86bee8e21a55340856a8621aca495673aa17bfde18d3b7aa61b42c
+        Cooldown: 3
+        Mystery Dust: 22
+        Rarity: Common
+        Enabled: true
+        CanBeFound: false
+        Purchasable: false
+        Messages:
+        - '&eO gato disse: &fALIMENTE ME.'
+        - '&eO Zueiro disse: &fTrolllladoooo'
+        - '&eO dono disse: &fPor favor n\xe3o quebre as regras.'
+        - '&eSua mãe disse: &fVocê deveria parar de jogar tantos jogos.'
+        - '&ePescador kevin disse: &fVamos pegar um peixe!'
+        - '&eBryan Mills disse: &fEu vou te encontrar e eu vou te matar.'
+        - '&eAnna disse: &fVocê quer construir um boneco de neve?'
+        - '&eMinion disse: &fABELHA FAÇA ABELHA FAÇA!'
+        - '&eHerobrine disse: &fNinguém vai sobreviver!'
+        - '&eCachorro disse: &fMIAAAAAAAAAAAAAU!'
+        - '&eDarth Vader disse: &fEu sou seu pai.'
+        - '&eElsa disse: &fO frio nunca me incomodou de qualquer forma.'
+        - '&eO Creeper disse: &fNão, não se preocupe. Não vou explodir na sua cara'
+        - '&eNotch disse: &fA vida é mais divertida se você jogar minecraft.'
+        - '&eMario disse: &fEu sou Mario!'
+        - '&eGato disse: &fAU AU!'
+        - 'Bob Ross disse: Não existem erros, apenas acidentes felizes.'
+        Lore:
+          Locked: &id001
+          - '&7Gere conversas interessantes'
+          - '&7e resolva problemas dos jogadores'
+          - '&7de forma engraçada'
+          Unlocked: *id001
+      Fortune Cookie:
+        Name: '&aBiscoito da Sorte'
+        Material: head:b592cf9f42a5a8c995968493fdd1b11e0b69aad6473ff45384abe58b7fc7c7
+        Cooldown: 0
+        Mystery Dust: 10
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Messages:
+          Player:
+          - '&e{PLAYER}&f: Olha só, um biscoito da sorte!'
+          - '&e{PLAYER}&f: Está delicioso!'
+          - '&e{PLAYER}&f: Mas espere, havia um pedaço de papel nele! O que isso quer
+            dizer?'
+          Fortune Cookie:
+          - '&eBiscoito da sorte&f: Se você não está feliz onde está, dê alguns passos
+            Para a esquerda. Se ainda não estiver satisfeito, não podemos ajudá-lo.'
+          - '&eBiscoito da sorte&f: Alguns de nós aprendem com os erros dos outros;
+            a o resto são outros.'
+          - '&eBiscoito da sorte&f: Amanhã, vire à esquerda. Em seguida, uma curva
+            à direita. Então outra curva à esquerda. Você agora chegou ao seu destino.'
+          - '&eBiscoito da sorte&f: Você é único, assim como todo mundo.'
+          - '&eBiscoito da sorte&f: Você pode ou não ser uma pessoa indecisa.'
+          - '&eBiscoito da sorte&f: A fortuna que você busca está dentro de outro
+            biscoito.'
+          - '&eBiscoito da sorte&f: Existem três tipos de pessoas no mundo: aquelas
+            quem pode contar e quem não pode.'
+          - '&eBiscoito da sorte&f: Em um salão de cabeleireiro com 2 cabeleireiros,
+            escolha aquele com o pior corte de cabelo.'
+          - '&eBiscoito da sorte&f: Um quarto limpo é o sinal de um computador quebrado.'
+          - '&eBiscoito da sorte&f: Quem madruga consegue o trabalho, mas é nojento
+            quem iria querer um verme ???'
+          - '&eBiscoito da sorte&f: 34% das estatísticas encontradas na internet são
+            completamente decidir!'
+          - '&eBiscoito da sorte&f: Se você não quer que alguém lhe peça para fazer
+            algo de novo, faça-o terrivelmente da primeira vez!'
+          - '&eBiscoito da sorte&f: Pessoas fortes não rebaixam os outros. Eles os
+            levantam para cima e jogue-os no chão para o dano máximo.'
+          - '&eBiscoito da sorte&f: Não se preocupe muito com as estatísticas - o
+            que importa é a diversão que você tem!'
+          - '&eBiscoito da sorte&f: A próxima frase é uma mentira. A frase anterior
+            é a verdade.'
+          - '&eBiscoito da sorte&f: Se você precisa chamar a atenção de sua família,
+            basta desligue o WiFi por um minuto!'
+          - '&eBiscoito da sorte&f: Nada estraga mais uma sexta-feira do que perceber
+            que é na verdade uma terça-feira.'
+          - '&eBiscoito da sorte&f: Você começou com nada, e você ainda tema maior
+            parte.'
+          - '&eBiscoito da sorte&f: Faça! Apenas faça! Não deixe seus sonhos serem
+            sonhos, apenas faça!'
+        Lore:
+          Locked: &id002
+          - '&7O que é melhor do que um'
+          - '&7biscoito? Um biscoito que dá'
+          - '&7conselhos de vida sólidos! Desfrute de um'
+          - '&7doce tratamento e palavras sábias'
+          - '&7com este biscoito da sorte.'
+          Unlocked: *id002
+      Tetherball:
+        Name: '&5Tetherball'
+        Material: head:5e48615df6b7ddf3ad495041876d9169bdc983a3fa69a2aca107e8f251f7687
+        Cooldown: 90
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id003
+          - '&7Gera um pólo, completo'
+          - '&7com uma bola de corda - '
+          - '&7perfeito para um jogo rápido de'
+          - '&7tetherball!'
+          Unlocked: *id003
+      Diving Board:
+        Name: '&6Prancha de mergulho'
+        Material: head:ab1379008aa409b364d40661cf0c8f709b73808c1b3631ee5f7dd2b516b9a64d
+        Cooldown: 60
+        Mystery Dust: 75
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Messages:
+        - '&eMortal para trás!'
+        - '&eMortal para frente!'
+        - '&eMergulho de cisne'
+        - '&eDe Barriga!'
+        Lore:
+          Locked: &id004
+          - '&7Tudo estava indo'
+          - '&7perfeitamente, atél'
+          - '&7de repente ... CABUMMMM!'
+          - '&7Mostre o seu trampolim aquático'
+          - '&7e mostre suas habilidades.'
+          Unlocked: *id004
+      Trampoline:
+        Name: '&6Trampolim'
+        Material: head:7ade112a0ff1111ab43727c939add90b67d6730d9b6b7abf489e12ef1e3
+        Cooldown: 80
+        Mystery Dust: 92
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id005
+          - '&7Constrói um trampolim'
+          - '&7que te envia para o céu.'
+          Unlocked: *id005
+      Flower Giver:
+        Name: '&9Entregador de Flores'
+        Material: head:7a408049ab19fa7e28f3466bf0b9a02766c319181a9ab7a4b6973816f318a6a
+        Cooldown: 5
+        Mystery Dust: 25
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Messages:
+          Target-A-Player: '&cClique com o botão direito em um jogador para dar a
+            ele uma flor!'
+          Already-Had-A-Flower: '&cEsse jogador já tinha uma flor.'
+          Sent-A-Flower: '&aVocê deu uma flor para &f{PLAYER} &a!'
+          Already-Sent-A-Request: '&cVocê já enviou um pedido de flor para &f{PLAYER}&c.'
+          Received-Flower: '{PLAYER} &ate deu uma flor!'
+          Accept: '&a&l[Aceitar]'
+          Decline: '&c&l[Negar]'
+          Accept-Json-message: '&7Clique aqui para aceitar a flor.'
+          Decline-Json-message: '&7Clique aqui para recusar a flor.'
+          No-Pending-Invite: '&cVocê não tem um convite pendente desse jogador.'
+          Accepted-Flower: '{PLAYER} &aaceitou sua flor!'
+          Declined-Flower: '{PLAYER} &crecusou sua flot!'
+          Right-Click-To-Remove-Flower: '&eClique com o botão direito para remover
+            sua flor!'
+        Lore:
+          Locked: &id006
+          - '&7Espalhe o amor para todos'
+          - '&7entregue flores ao seu redor'
+          Unlocked: *id006
+      Sand Castle:
+        Name: '&9Castelo de Areia'
+        Material: head:9918b3b7516b1946566fd7b287f82ef44afafea9a2c3bd385691f7f0f42097f8
+        Cooldown: 30
+        Mystery Dust: 28
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id007
+          - '&7Construa um gigante'
+          - '&7castelo de areia!'
+          Unlocked: *id007
+      BBQ Grill:
+        Name: '&5Churrasqueira'
+        Material: head:318e35ec4b4b4c1591c5177386de18797454298b7455982e3ae83bacced0f1a2
+        Cooldown: 45
+        Mystery Dust: 58
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id008
+          - '&7Vamos celebrar, que tal!'
+          - '&7Fazer um churrasco ?'
+          Unlocked: *id008
+      Pocket Beach:
+        Name: '&5Pocket Beach Gadget'
+        Material: SAND
+        Cooldown: 60
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: false
+        CanBeFound: false
+        Purchasable: false
+        Lore:
+          Locked: &id009
+          - '&7Can''t go to the beach? No'
+          - '&7problem! Carry your own'
+          - '&7spot in your pocket!'
+          Unlocked: *id009
+      Ice Cream Stand:
+        Name: '&6Carrinho de Sorvete'
+        Material: head:95366ca17974892e4fd4c7b9b18feb11f05ba2ec47aa5035c81a9533b28
+        Cooldown: 30
+        Mystery Dust: 68
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Messages:
+        - '&eSorveteiro&f: Cobertura de avelãs ... Chocolate duplo ... E baunilha
+          ... Esqueceu alguma coisa?'
+        - '&eSorveteiro&f: Sorvete de morango, meu favorito!'
+        - '&eSorveteiro&f: Lamento, mas não tenho troco de momento :('
+        - '&eSorveteiro&f: Desculpe, só aceitamos dinheiro por enquanto!'
+        Lore:
+          Locked: &id010
+          - '&7Vou querer um sorvete de baunilha'
+          - '&7bem geladinho.'
+          Unlocked: *id010
+      Tic Tac Toe:
+        Name: '&6Jogo da velha'
+        Material: head:a6864136e374f5d676fb4f5b03e10a7bcdb4190b376378ae9492045fb4adf9d
+        Cooldown: 30
+        Mystery Dust: 85
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Messages:
+          Target-A-Player: '&cClique com o botão direito em um jogador para iniciar
+            um jogo da velha com eles!'
+          Target-Other-Player: '&cEsse jogador atualmente jogando jogo da velha. Por
+            favor clique com o botão direito em outro jogador para iniciar um jogo
+            da velha com eles!'
+          Challenge: '&aVocê desafiou {PLAYER} &apara um jogo da velha.'
+          Already-Sent-A-Request: '&cVocê já enviou uma solicitação de desafio para
+            &r{PLAYER}&c.'
+          Received-Challenge: '{PLAYER} &ao desafiou para um jogo da velha.'
+          Accept: '&a&l[Aceitar]'
+          Decline: '&c&l[Negar]'
+          Accept-Json-message: '&7Clique aqui para aceitar o desafio.'
+          Decline-Json-message: '&7Clique aqui para negar o desafio.'
+          No-Pending-Challenge: '&cVocê não tem um desafio pendente desse jogador.'
+          Accepted-Challenge: '{PLAYER} &aaceitou seu desafio!'
+          Declined-Challenge: '{PLAYER} &cnegou seu desafio!'
+          Draw: '&cO jogo da velha com &r{PLAYER} &ceterminou em empate.'
+          Win: '&aVocê derrotou &r{PLAYER} &ano jogo da velha!'
+          Loss: '{PLAYER} &cderrotou você no jogo da velha!'
+          Opponent-Left-Game: '&cSeu oponente saiu do jogo da velha!'
+          Player-Left-Game: '&cVocê saiu do jogo da velha!'
+        Items:
+          GUI-Name: Jogo da Velha - {OPPONENT}
+          Place-Symbol:
+            Name: '&aClique aqui!'
+            Material: ITEM_FRAME
+            Lore:
+            - '&7Clique aqui para colocar o seu simbulo'
+          Not-Your-Turn:
+            Name: '&cNão é sua vez!'
+            Material: PAINTING
+            Lore:
+            - '&7Ainda não é sua vez'
+            - '&7espere para poder jogar.'
+          Challenger:
+            Name: '&6Laranja: &f{PLAYER}'
+            Material: ORANGE_TERRACOTTA
+            Lore:
+            - '&7Laranja é'
+            - '&7{PLAYER}&7.'
+          Opponent:
+            Name: '&bAzul: &f{PLAYER}'
+            Material: LIGHT_BLUE_TERRACOTTA
+            Lore:
+            - '&7Jogador azul é'
+            - '&7{PLAYER}&7.'
+          Challenger-Symbol:
+            Name: '&6Laranja'
+            Material: ORANGE_TERRACOTTA
+            Lore:
+            - '&7Este slot pertence a'
+            - '&7Laranja.'
+          Opponent-Symbol:
+            Name: '&bAzul'
+            Material: LIGHT_BLUE_TERRACOTTA
+            Lore:
+            - '&7Este slot pertence a Azul.'
+        Lore:
+          Locked: &id011
+          - '&7Challenge your friends to a'
+          - '&7tic-tac-toe game. Who will'
+          - '&7be the winner?'
+          Unlocked: *id011
+    GUI-Name: Fun & Games
+  Mobs And NPCs:
+    Name: '&eMonstros & NPCs'
+    Material: head:9d06cfa6ae76526cfd77edf3f160329c23a0deafc8e681e154031037b619ad33
+    Enabled: true
+    Lore:
+    - '&7Crie e brinque com '
+    - '&7criaturas usando essas engenhocas.'
+    Types:
+      Piggy Bank:
+        Name: '&9Cofrinho'
+        Material: head:198df42f477f213ff5e9d7fa5a4cc4a69f20d9cef2b90c4ae4f29bd17287b5
+        Cooldown: 40
+        Mystery Dust: 35
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id012
+          - '&7Exploda seu cofrinho'
+          - '&7cheio de ouro.'
+          Unlocked: *id012
+      CATapult:
+        Name: '&9Catapulta de Gato'
+        Material: head:785cfbb5d04d4cff2f34df2f94573ec55487779d45ec19b1d8f5a6e81be830d7
+        Cooldown: 50
+        Mystery Dust: 25
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id013
+          - '&7Ataque seus inimigos com'
+          - '&7o pior medo deles, gatos!'
+          - '&7Lança 5 gatos explodindo'
+          - '&7na direção que você aponta.'
+          Unlocked: *id013
+      When Pigs Fly:
+        Name: '&9Porco Voador'
+        Material: head:6255c3bf35edc5ae14b4d3848315f388ffbf9c9fde21bb799993a832ffc6
+        Cooldown: 30
+        Mystery Dust: 28
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id014
+          - '&7Invoque um porco voador'
+          - '&7e tente domalo enquanto voa.!'
+          Unlocked: *id014
+      Creeper Astronaut:
+        Name: '&9Creeper Astronalta'
+        Material: head:8dd08bf38bd1b233e5d4dc5dcaa044c26724457754221f503fdba518e4b25a9e
+        Cooldown: 40
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id015
+          - '&7Atire um creeper no'
+          - '&7aar, se chegar ao '
+          - '&7topo, aproveite o espetaculo'
+          - '&7de fogos!'
+          Unlocked: *id015
+      Exploding Sheep:
+        Name: '&9Ovelha Explosiva'
+        Material: head:9e4352680d0bb29b9138af783301a391b34090cb4941d52c087ca73c8036cb51
+        Cooldown: 15
+        Mystery Dust: 25
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id016
+          - '&7Direto de Farm Hunt,'
+          - '&7é a única Ovelha explosiva.'
+          Unlocked: *id016
+        Remain-Time: '&c&l{REMAIN_TIME}s'
+      Bat Launcher:
+        Name: '&9Canhçao de Morcego'
+        Material: head:9e99deef919db66ac2bd28d6302756ccd57c7f8b12b9dca8f41c3e0a04ac1cc
+        Affect-Players: true
+        Cooldown: 10
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id017
+          - '&7Lançe varios morcegos'
+          - '&7em seus inimigos.'
+          Unlocked: *id017
+      Scarecrow:
+        Name: '&6Espantalho Gadget'
+        Material: head:ca32c919e352fd5463c8619c245b1335651de2ca48a74359e11738aefc3f54
+        Cooldown: 30
+        Mystery Dust: 65
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Jack-O-Lantern-DisplayName: '&cScarecrow'
+        Lore:
+          Locked: &id018
+          - '&7Gera um espantalho que'
+          - '&7muda a cabeça de jogadores'
+          - '&7por perto para uma abóbora.'
+          Unlocked: *id018
+    GUI-Name: Mobs & NPCs
+  Movement:
+    Name: '&eMovimento'
+    Material: head:4964bfbce36578d64700bf942e32f1e9d85fcc17f89be9ab0274b08bcca17bc
+    Enabled: true
+    Lore:
+    - '&7Mude a maneira como você anda,'
+    - '&7correr ou voa pelo lobby'
+    - '&7com essas alterações de movimento.'
+    Types:
+      Cowboy:
+        Name: '&5Cowboy'
+        Material: head:c969a37f9c3691c531761bb5973c3254c63d4cc2ccc9121bc277f8ed1b4b9444
+        Cooldown: 5
+        Mystery Dust: 30
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id019
+          - '&7Permite que você monte o'
+          - '&7jogador mais próximo. Criando'
+          - '&7torres montando outras em'
+          - '&7outras pessoas!'
+          Unlocked: *id019
+      Teleport Stick:
+        Name: '&9Varinha Magica'
+        Material: STICK
+        Cooldown: 5
+        Mystery Dust: 18
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Range: 30
+        Lore:
+          Locked: &id020
+          - '&7Permite que você se teletransporte'
+          - '&7em qualquer lugar clicando com o botão direito'
+          - '&7e apontando com isso'
+          - '&7o varinha magica!'
+          Unlocked: *id020
+      Fire Trail:
+        Name: '&9Rastro de Fogo'
+        Material: head:c3687e25c632bce8aa61e0d64c24e694c3eea629ea944f4cf30dcfb4fbce071
+        Cooldown: 50
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id021
+          - '&7Ganhe Velocidade II'
+          - '&7e um rastro de fogo.'
+          Unlocked: *id021
+      Paint Trail:
+        Name: '&9Rastro Cromado'
+        Material: head:cffc977cc7e10e564a09638a53bbc4c54c9c8dac7450ba3dfa3c9099d94f5
+        Blacklist:
+        - SPAWNER
+        Cooldown: 35
+        Mystery Dust: 22
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id022
+          - '&7Deixe um rastro colorido'
+          - '&7aonde você passar.'
+          Unlocked: *id022
+      Parachute:
+        Name: '&5Paraquedas'
+        Material: head:e0c324acaa6949651dd2b0afe6e81de87e52a0dc96532b231eb27d05d725e
+        Cooldown: 60
+        Mystery Dust: 40
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id023
+          - '&7Atira você para o céu,'
+          - '&7pouco antes de cair'
+          - '&7seu paraquedas irá abrir.'
+          Unlocked: *id023
+      Teleporter:
+        Name: '&5Teleportador'
+        Material: head:4ec1c3f7d09ce6c0cb48ed30b4596a5c14fae79def8bfd14a59fc1935600bc7b
+        Cooldown: 30
+        Mystery Dust: 45
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Messages:
+          Initiating-Teleport-Sequence: '&e&lIniciando a sequência de teletransporte.
+            Por favor espera!'
+          Scanning-Players: '&e&lProcurando por um alvo para teletransportar...'
+          Target-Acquired: '&e&lAlvo adquirido: &k&lRANDOMCHARATERS&e&l!'
+          Teleport-Initiating: '&e&lPreparar-se! Teleporte iniciando...'
+          Teleport-Complete: '&e&lTeleport completo! Obrigado por usar o Teleportador
+            Viagem rápida!'
+          Process-Failed: '&c&lProcesso "encontrar jogador" falhou! Não foi possível
+            localizar um válido alvo!'
+          Aborted-Teleport-Sequence: '&c&lSequência de teletransporte abortada...'
+        Lore:
+          Locked: &id024
+          - '&7Em um piscar de olhos você'
+          - '&7desaparece, e magicamente'
+          - '&7aparecer em outro lugar.'
+          Unlocked: *id024
+      Rocket:
+        Name: '&6Foguete'
+        Material: head:239c6140888147f5dca236245085a144aa54413eff13e2a57a1d33a830508af8
+        Cooldown: 120
+        Mystery Dust: 125
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id025
+          - '&7Decole para a lua com'
+          - '&7este foguete de grande escala'
+          - '&7completo com contagem regressiva,'
+          - '&7sons e uma explosão no final.'
+          Unlocked: *id025
+      Let It Snow:
+        Name: '&9Deixe nevar'
+        Material: head:11136616d8c4a87a54ce78a97b551610c2b2c8f6d410bc38b858f974b113b208
+        Cooldown: 80
+        Mystery Dust: 60
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id026
+          - '&7Libere uma pequena tempestade de neve'
+          - '&7ao seu redor, cobrindo a'
+          - '&7área em branco por um curto'
+          - '&7tempo!'
+          Unlocked: *id026
+    GUI-Name: Movement
+  Musical:
+    Name: '&eMúsicas'
+    Material: head:4ceeb77d4d25724a9caf2c7cdf2d88399b1417c6b9ff5213659b653be4376e3
+    Enabled: true
+    Lore:
+    - '&7Faça barulho com estes'
+    - '&7musical com emissão de som.'
+    Types:
+      Jukebox:
+        Name: '&5Caixa de Som'
+        Material: head:1d391b5fd359be5b3a960be55237f6635ea5bd3d7783bf60dd655f2110bb93
+        Cooldown: 3
+        Mystery Dust: 52
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id027
+          - '&7Permite que você abra uma música'
+          - '&7onde você pode selecionar'
+          - '&7de vários sucessos C418.'
+          Unlocked: *id027
+        Items:
+          GUI-Name: Lista de Musicas
+          Track:
+            Name: '&b{TRACK}'
+            Lore:
+            - ''
+            - '&eClique para tocar!'
+          Stop-Track:
+            Name: '&cParar música'
+            Material: RED_WOOL
+            Lore:
+            - '&7Pare de tocar a faixa atual.'
+      Radio:
+        Name: '&6Rádio'
+        Material: head:148a8c55891dec76764449f57ba677be3ee88a06921ca93b6cc7c9611a7af
+        Cooldown: 3
+        Mystery Dust: 105
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id028
+          - '&7Escute o sua música favorita.'
+          Unlocked: *id028
+        Items:
+          GUI-Name: Rádio
+          Track:
+            Name: '&b{TRACK}'
+            Material: head:148a8c55891dec76764449f57ba677be3ee88a06921ca93b6cc7c9611a7af
+            Lore:
+            - ''
+            - '&eClique para tocar!'
+          Stop-Track:
+            Name: '&cParar música'
+            Material: RED_WOOL
+            Lore:
+            - '&7Pare de tocar a faixa atual.'
+      Disco Ball:
+        Name: '&5Discoteca'
+        Material: head:91f26c21cbe1f3e5882ec59501e50c552757f81829c65c3fc4321055ae56d21c
+        Duration-Seconds: 60
+        Cooldown: 80
+        Mystery Dust: 60
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id029
+          - '&7Gera uma bola de discoteca,'
+          - '&7completo com efeitos extravagantes'
+          - '&7e muita música.'
+          Unlocked: *id029
+      DJ Booth:
+        Name: '&6DJ'
+        Material: head:c965ae98c21694c444e1fdaf824340f33d5a72e45bf308c50ab3f6e4c916b
+        Duration-Seconds: 60
+        Cooldown: 60
+        Mystery Dust: 85
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id030
+          - '&7Se você sempre quis'
+          - '&7tornar-se DJ, é agora ou'
+          - '&7Nunca! Hipnotize seu'
+          - '&7amigos com este conjunto de DJ.'
+          Unlocked: *id030
+        Blacklist:
+        - SAND
+        - GRAVEL
+        - SPAWNER
+    GUI-Name: Musical
+  Projectile:
+    Name: '&eProjéteis'
+    Material: BOW
+    Enabled: true
+    Lore:
+    - '&7Fogo à vontade! Atire no seu oponentes'
+    - '&7em torno dos lobbies com'
+    - '&7estes projeteis.'
+    Types:
+      MobGun:
+        Name: '&9Canhão de Monstros'
+        Material: head:e92089618435a0ef63e95ee95a92b83073f8c33fa77dc5365199bad33b6256
+        Cooldown: 30
+        Mystery Dust: 28
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id031
+          - '&7Lançe um canhão'
+          - '&7com 18 monstros diferentes'
+          - '&7uns dos outros.'
+          Unlocked: *id031
+        Actionbar-Message: '{GADGET} &r- {MOB}'
+        Mob-Name:
+          Pig: Porco
+          Villager: Aldeão
+          Ocelot: Jaguaritica
+          Cow: Vaca
+          Creeper: Creeper
+          Spider: Aranha
+          Squid: Lula
+          Chicken: Galinha
+          Sheep: Ovelha
+          Wolf: Lobo
+          Witch: Bruxa
+          Blaze: Blaze
+          Horse: Horse
+          Zombie: Zumbi
+          Skeleton: Esqueleto
+          MushroomCow: Vaca Cogumelo
+          CaveSpider: Aranha da Caverna
+          PigZombie: Porco Zumbi
+      Railgun:
+        Name: '&aCanhão de Raio'
+        Material: head:d6db137a35679beaf790070d0c9c96c90676260ebc00dd2c700562a099db07c0
+        Cooldown: 5
+        Mystery Dust: 16
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id032
+          - '&7É a arma básica'
+          - '&7pronto para atirar à vontade!'
+          Unlocked: *id032
+      Paintball Gun:
+        Name: '&aArma de paintball'
+        Material: head:6937eadc53c39b9688cc39655d1b78fd612c1cd625c2a89638c5e27216c6e4d
+        Radius: 3
+        Blacklist:
+        - SAND
+        - GRAVEL
+        - SPAWNER
+        Cooldown: 3
+        Mystery Dust: 10
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id033
+          - '&7Que melhor maneira de enfeitar'
+          - '&7o lobby do que com um'
+          - '&7pouca cor? Ou muito,'
+          - '&7quem '' '' está contando?'
+          Unlocked: *id033
+      Explosive Bow:
+        Name: '&aArco Explosivo'
+        Material: BOW
+        Cooldown: 8
+        Mystery Dust: 10
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id034
+          - '&7Varinha magica são para'
+          - '&7perdedores. Todas as crianças legais'
+          - '&7usam o arco explosivo.'
+          Unlocked: *id034
+      Melon Launcher:
+        Name: '&aLançador de melão'
+        Material: MELON
+        Cooldown: 3
+        Mystery Dust: 10
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id035
+          - '&7Coma as fatias de melão e ganhe'
+          - '&7um aumento temporário de velocidade!'
+          Unlocked: *id035
+    GUI-Name: Projectile
+  Visual:
+    Name: '&eVisual'
+    Material: head:fec5963e1f78f2f05943f4dd32224661374c220ecfde1e54754f5ee1e555dd
+    Enabled: true
+    Lore:
+    - '&7Mude a maneira como você ou o'
+    - '&7lobby olha com estas'
+    - '&7engenhocas visuais!'
+    Types:
+      Kookie Fountain:
+        Name: '&5Fonte de Biscoito'
+        Material: head:e1fd981ce15a2980a96115c8d67099f4bcb491f2e6c790847a79c360e5fc
+        Cooldown: 60
+        Mystery Dust: 62
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id036
+          - '&7Faz chover biscoitos em'
+          - '&7você!'
+          Unlocked: *id036
+      Pyromaniac:
+        Name: '&9Piromaníaco'
+        Material: head:b82ee289b91ff39a97d39b9ac5fb9a8e4348404f27643af2495859027b344503
+        Cooldown: 30
+        Mystery Dust: 35
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id037
+          - '&7Transforma você em uma bola de'
+          - '&7fogo por 10 segundos, apos'
+          - '&7colidir ela é removida.'
+          Unlocked: *id037
+      Diamond Shower:
+        Name: '&5Chuveiro de Diamante'
+        Material: head:c1dcd4607ccb1af067bb1db48fa2cc7ca196520154c7a54a967b845f20569c9e
+        Cooldown: 60
+        Mystery Dust: 75
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id038
+          - '&7Dá um banho em você em diamantes,'
+          - '&7fantástico para se exibir'
+          - '&7sua incrível riqueza.'
+          Unlocked: *id038
+      Gold Fountain:
+        Name: '&9Fonte de Ouro'
+        Material: head:945f47feb4d75cb333914bfdb999a489c9d0e320d548f310419ad738d1e24b9
+        Cooldown: 60
+        Mystery Dust: 70
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id039
+          - '&7Qual é a melhor coisa a fazer'
+          - '&7com ouro? Fazendo chover'
+          - '&7Ouro.'
+          Unlocked: *id039
+      Kawarimi No Jutsu:
+        Name: '&9Kawarimi No Jutsu'
+        Material: head:21e7fc76b13658da8ec1999c102fd9b711389b92c866a765f63f48d12c46d772
+        Cooldown: 30
+        Mystery Dust: 25
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id040
+          - '&7Com esta técnica, o corpo do usuário será'
+          - '&7substituido por madeira.'
+          Unlocked: *id040
+      Cryotube:
+        Name: '&9Criotubo'
+        Material: head:c69e0aba35d6853ee54c86799f754ae1669dd39a0e2f3d69731f331adede
+        Cooldown: 45
+        Mystery Dust: 25
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id041
+          - '&7Congela você dentro do gelo,'
+          - '&7ótimo se você está planejando'
+          - '&7sobrevivendo a qualquer apocalipse.'
+          Unlocked: *id041
+      Ghosts:
+        Name: '&9Fantasmas'
+        Material: WITHER_SKELETON_SKULL
+        Cooldown: 40
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id042
+          - '&7Gera cabeças de fantasmas flutuantes.'
+          Unlocked: *id042
+      Party Popper:
+        Name: '&9Explosão Colorida'
+        Material: head:3e427adff356f0945ebba391ca0eef465ae17461ea7c53ad173fbb6c7f36a8
+        Affect-Players: true
+        Cooldown: 60
+        Mystery Dust: 50
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id043
+          - '&7Explode você em um confete'
+          - '&7completo com ruídos e!'
+          - '&7tudo para fazer seu lobby'
+          - '&7virar uma festa incrível.'
+          Unlocked: *id043
+      Poop Bomb:
+        Name: '&5Bomba de Cocô'
+        Material: head:9b3b1f785f01753c45ef97fcffffb3f52658ffceb17ad3f7b592945c6df2fa
+        Cooldown: 40
+        Mystery Dust: 45
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id044
+          - '&7Se o nome não disser'
+          - '&7chega, isso é muito bonito'
+          - '&7apenas uma bomba que explode'
+          - '&7lançando cocô em todos os lugares.'
+          Unlocked: *id044
+      TNT Fountain:
+        Name: '&6Fonte de TNT'
+        Material: TNT
+        Cooldown: 80
+        Mystery Dust: 90
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id045
+          - '&7Gera uma fonte animada'
+          - '&7que chove TNT, preparado ?'
+          Unlocked: *id045
+      Dracula:
+        Name: '&aDracula'
+        Material: head:47dedb700b11f97288391215865757b04218f964515d116271062a2b66f173ea
+        Cooldown: 30
+        Mystery Dust: 15
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Lore:
+          Locked: &id046
+          - '&7Lance uma onda de morcegos'
+          - '&7e te dar um efeito temporário'
+          - '&7de invisibilidade.'
+          Unlocked: *id046
+    GUI-Name: Visual
